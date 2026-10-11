@@ -6,7 +6,9 @@ import streamlit as st
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="Employee Attrition Prediction", page_icon="👥", layout="wide"
+    page_title="Employee Attrition Prediction | AI & ML Dashboard",
+    page_icon="👥",
+    layout="wide"
 )
 st.markdown("""
 <style>
