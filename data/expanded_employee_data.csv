@@ -1,0 +1,3001 @@
+Age,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,PerformanceRating,DistanceFromHome,Department,OverTime,Attrition
+59,132961,13,3,3,2,15,Data Science,No,No
+49,55379,22,4,1,2,27,Procurement,No,No
+35,32297,19,2,1,4,31,Research & Development,No,No
+28,17011,19,1,1,3,39,Sales,Yes,Yes
+41,135234,5,4,2,1,47,Logistics,No,No
+59,59014,21,3,3,3,8,Procurement,No,No
+39,109333,24,4,1,2,30,Customer Support,Yes,No
+43,26120,27,3,1,1,42,Human Resources,No,No
+31,37852,4,2,4,1,18,Quality Assurance,Yes,No
+31,94239,23,4,4,1,4,Operations,Yes,No
+44,147001,20,2,1,1,47,Customer Support,Yes,No
+56,106575,17,1,4,4,43,Design,Yes,No
+60,110040,14,3,4,1,22,Cybersecurity,No,No
+44,20744,5,3,4,2,3,Administration,Yes,No
+23,57359,24,2,2,4,15,Administration,No,No
+42,113746,28,2,1,2,35,Marketing,No,No
+22,135906,18,1,1,2,47,Design,No,No
+44,22597,0,4,4,3,38,Cybersecurity,No,No
+50,62093,0,3,2,1,33,Data Science,No,No
+58,129650,12,3,4,1,14,Quality Assurance,Yes,Yes
+22,135956,2,1,2,2,48,Engineering,No,Yes
+41,130598,9,1,1,1,1,Engineering,Yes,Yes
+53,148241,20,2,4,4,49,Sales,Yes,No
+32,23036,2,2,1,3,26,Business Development,Yes,Yes
+42,46778,8,4,2,1,8,Engineering,No,No
+45,33800,7,1,3,1,50,Cybersecurity,No,No
+47,40372,2,4,2,4,16,Engineering,No,No
+48,76516,24,1,3,3,38,Research & Development,No,Yes
+36,35538,30,3,1,4,10,Procurement,Yes,No
+35,78918,12,1,1,2,42,Sales,No,No
+23,86155,5,1,4,2,37,Operations,No,No
+57,74500,12,3,3,1,26,Product Management,Yes,Yes
+27,125659,22,1,2,3,28,Logistics,Yes,Yes
+41,42716,19,4,1,2,12,Cybersecurity,Yes,No
+29,149308,19,2,3,4,20,Cybersecurity,Yes,No
+59,17352,11,2,2,2,49,Administration,Yes,No
+38,148004,12,4,3,2,14,Operations,Yes,No
+24,91449,1,3,2,4,46,Business Development,Yes,No
+45,23556,20,1,2,1,35,Engineering,No,No
+34,101836,23,4,2,3,29,Administration,No,No
+29,65098,22,2,2,1,12,Human Resources,Yes,No
+46,127169,15,2,3,4,18,Marketing,Yes,Yes
+22,141060,22,4,3,2,44,Human Resources,No,No
+40,145544,5,2,4,3,2,Operations,Yes,Yes
+48,15340,18,4,3,1,2,Human Resources,Yes,Yes
+27,97302,20,2,3,4,17,Logistics,Yes,Yes
+28,15138,12,4,4,2,10,Customer Support,Yes,Yes
+55,146430,16,1,3,2,18,Customer Support,Yes,No
+34,134619,22,1,2,1,22,Data Science,No,No
+37,100376,8,1,1,4,19,Product Management,Yes,Yes
+56,114931,16,1,1,2,1,Information Technology,Yes,No
+60,96532,28,2,4,2,24,Procurement,Yes,No
+24,70778,1,3,3,3,36,Customer Support,No,No
+22,52772,18,4,3,2,25,Administration,No,No
+26,73478,18,3,4,1,36,Design,Yes,No
+24,41762,23,2,1,4,31,Research & Development,Yes,Yes
+49,70568,6,2,2,4,31,Product Management,Yes,Yes
+38,100090,21,3,3,3,2,Product Management,Yes,Yes
+46,35219,30,3,4,4,19,Cybersecurity,No,No
+54,72169,9,2,2,1,12,Operations,No,No
+30,89965,9,2,4,2,10,Administration,Yes,Yes
+56,99754,26,4,4,3,31,Marketing,Yes,Yes
+34,92988,19,1,4,4,45,Finance,No,Yes
+51,147379,8,1,1,3,22,Sales,No,No
+35,95388,16,4,1,3,23,Business Development,Yes,Yes
+28,105768,26,3,4,4,23,Operations,Yes,No
+34,50428,14,2,3,3,15,Marketing,Yes,Yes
+43,107021,1,3,2,4,26,Customer Support,No,No
+60,133418,30,1,3,1,3,Operations,No,Yes
+41,147212,29,1,1,4,23,Operations,No,No
+36,41421,3,3,2,2,20,Customer Support,No,Yes
+38,16708,18,1,4,4,45,Legal,Yes,No
+44,149702,16,2,3,2,40,Customer Support,No,No
+46,91021,4,4,3,3,39,Human Resources,No,No
+45,59789,6,3,4,4,8,Product Management,No,No
+49,41086,17,2,3,2,18,Procurement,Yes,No
+35,31859,20,2,1,4,41,Sales,No,Yes
+21,22684,21,1,4,4,6,Design,No,No
+45,106088,26,2,3,4,27,Cybersecurity,No,No
+27,147279,6,3,4,1,36,Engineering,Yes,No
+29,61099,16,2,2,2,15,Logistics,No,No
+44,81093,6,4,4,1,37,Quality Assurance,Yes,No
+21,63651,3,2,3,1,5,Sales,Yes,No
+28,28893,7,2,1,2,39,Product Management,No,Yes
+44,81418,12,4,4,4,9,Research,Yes,No
+31,140074,3,2,4,1,7,Design,No,Yes
+37,118065,5,2,3,1,41,Data Science,Yes,No
+28,145351,24,1,1,1,20,Research,Yes,Yes
+55,53635,4,3,1,4,10,Finance,No,Yes
+55,110071,29,1,2,1,26,Information Technology,No,No
+53,93518,11,3,2,3,4,Logistics,Yes,No
+25,121233,3,4,3,2,38,Business Development,Yes,Yes
+59,118651,23,4,1,3,24,Logistics,Yes,Yes
+48,87805,28,4,1,4,14,Finance,Yes,No
+27,137813,8,3,2,1,41,Product Management,No,No
+29,94063,3,3,2,2,1,Logistics,Yes,No
+28,17454,18,3,3,1,17,Sales,Yes,No
+32,35878,23,4,1,4,45,Research,No,Yes
+54,83344,13,3,4,2,24,Engineering,Yes,No
+53,119946,4,2,2,3,27,Product Management,No,No
+43,51593,17,1,3,2,7,Cybersecurity,No,No
+44,51304,9,4,1,1,9,Marketing,No,Yes
+57,128613,24,1,1,2,43,Customer Support,Yes,Yes
+55,33354,18,2,2,4,35,Cybersecurity,No,No
+60,37190,11,3,3,4,12,Product Management,No,No
+42,21142,17,1,4,2,21,Engineering,No,No
+47,56862,16,2,2,4,3,Sales,Yes,No
+55,140438,29,2,3,4,15,Operations,Yes,No
+21,63456,23,1,1,4,21,Logistics,Yes,Yes
+55,115167,10,4,4,3,10,Design,Yes,No
+57,97035,2,1,3,1,33,Customer Support,No,No
+34,23016,22,4,4,4,46,Data Science,No,No
+23,17384,16,3,3,2,6,Operations,No,Yes
+21,117239,0,4,3,4,2,Design,Yes,No
+25,126431,14,3,3,3,29,Sales,No,No
+46,95018,27,1,3,2,40,Marketing,Yes,Yes
+34,55510,8,3,4,1,33,Finance,Yes,No
+59,36826,14,2,2,2,4,Design,Yes,No
+47,83026,27,3,4,2,4,Sales,No,Yes
+29,136668,23,4,3,2,29,Logistics,No,No
+35,39045,27,4,4,2,37,Administration,Yes,No
+35,105102,28,4,4,4,20,Administration,No,No
+46,66919,2,3,4,1,41,Marketing,Yes,Yes
+33,114441,21,4,3,4,23,Legal,No,No
+52,133325,26,4,4,3,45,Design,Yes,No
+59,34337,18,2,1,3,18,Product Management,Yes,Yes
+52,92949,12,3,3,2,49,Research,Yes,No
+24,15276,11,2,4,4,25,Cybersecurity,No,No
+50,66151,19,4,1,4,1,Administration,No,Yes
+57,67887,0,4,4,1,15,Sales,No,No
+43,96442,20,4,2,1,34,Sales,No,No
+59,64847,16,3,4,1,48,Information Technology,No,No
+35,73653,12,1,4,4,20,Marketing,Yes,No
+49,71622,0,4,2,1,37,Research & Development,No,No
+56,42810,9,4,3,1,27,Legal,Yes,No
+33,92842,14,4,2,1,22,Product Management,No,No
+52,137225,26,4,3,2,5,Legal,No,No
+27,25503,26,3,2,3,34,Procurement,No,Yes
+42,99761,29,1,4,3,39,Operations,Yes,Yes
+48,141439,6,1,4,4,3,Administration,No,No
+22,26590,27,1,3,4,17,Design,Yes,Yes
+26,81624,21,4,3,2,24,Logistics,No,No
+48,135356,17,4,1,3,24,Customer Support,Yes,No
+48,57727,15,1,1,1,3,Information Technology,Yes,No
+40,93471,13,1,4,1,45,Operations,Yes,Yes
+50,23068,26,4,4,4,7,Administration,Yes,Yes
+31,131923,27,4,1,3,25,Legal,No,Yes
+48,26390,17,2,1,4,3,Data Science,No,No
+45,121752,26,2,3,4,15,Data Science,Yes,No
+59,109754,6,2,2,1,29,Engineering,No,No
+53,90969,16,1,3,1,50,Engineering,Yes,Yes
+21,92064,28,3,1,3,29,Research & Development,No,Yes
+47,36281,17,4,4,4,10,Legal,No,No
+33,69189,11,2,1,2,32,Sales,No,No
+23,63511,7,3,4,3,23,Data Science,Yes,No
+59,137115,21,4,4,4,39,Design,No,No
+26,23605,30,3,4,3,9,Information Technology,Yes,Yes
+28,115318,29,1,4,3,37,Marketing,No,No
+47,147453,1,1,2,3,40,Legal,Yes,Yes
+29,34810,6,1,1,2,14,Procurement,No,Yes
+57,56869,3,2,3,2,4,Research & Development,Yes,No
+53,47955,17,4,4,1,20,Quality Assurance,Yes,No
+44,76388,27,1,4,1,28,Engineering,Yes,Yes
+35,25207,5,2,3,4,14,Finance,No,No
+52,37031,26,2,3,3,44,Research & Development,Yes,Yes
+52,95807,30,2,4,4,34,Research & Development,No,No
+44,86312,8,2,3,1,13,Marketing,Yes,No
+32,74766,26,1,3,2,31,Finance,Yes,No
+59,104833,8,2,2,1,33,Sales,Yes,No
+22,126041,13,1,3,4,39,Finance,No,No
+23,131185,7,1,1,1,28,Operations,No,No
+57,25350,30,2,1,4,25,Procurement,No,No
+37,115859,18,1,1,4,32,Data Science,No,Yes
+22,83487,2,4,4,4,9,Product Management,No,No
+22,138853,17,4,1,4,28,Legal,No,Yes
+48,68117,4,3,2,1,31,Finance,No,Yes
+43,116084,13,4,1,4,17,Sales,Yes,No
+57,38782,27,1,4,4,23,Engineering,Yes,Yes
+52,43454,29,1,2,3,13,Logistics,No,Yes
+53,82904,3,4,1,4,10,Administration,No,No
+21,144936,6,2,2,1,16,Product Management,No,Yes
+39,137258,19,2,2,4,6,Legal,No,No
+22,126668,24,1,4,2,48,Sales,No,No
+46,139184,27,2,4,2,11,Data Science,Yes,No
+52,31566,11,3,2,4,3,Quality Assurance,No,No
+26,53333,1,3,1,2,28,Administration,No,No
+52,136929,10,4,4,2,41,Customer Support,No,No
+24,104571,13,4,2,1,15,Data Science,Yes,No
+31,135263,21,2,3,3,13,Product Management,Yes,No
+37,147661,30,1,3,2,42,Customer Support,Yes,No
+58,40235,22,4,4,2,45,Quality Assurance,Yes,No
+44,15159,15,3,1,3,17,Research & Development,No,No
+25,119859,19,4,3,3,7,Product Management,Yes,No
+54,122507,28,4,3,2,28,Customer Support,Yes,Yes
+26,29743,5,3,3,4,38,Logistics,Yes,No
+42,61101,22,1,1,2,13,Operations,Yes,Yes
+31,136534,3,4,1,4,17,Product Management,Yes,No
+36,99227,14,4,4,4,15,Human Resources,No,No
+53,86126,23,4,4,4,36,Logistics,Yes,No
+29,71071,24,2,3,3,28,Administration,Yes,Yes
+26,89763,0,4,1,2,15,Finance,Yes,No
+36,61154,6,3,2,2,46,Marketing,No,No
+49,22016,24,1,3,1,11,Customer Support,No,No
+23,104678,30,1,4,3,31,Information Technology,No,No
+40,127056,11,3,1,1,4,Logistics,No,Yes
+56,69238,9,2,4,1,35,Quality Assurance,No,No
+39,73608,4,3,4,4,34,Data Science,No,No
+46,104081,11,1,1,3,27,Administration,No,No
+23,65961,17,3,3,1,10,Legal,No,Yes
+39,41917,9,2,1,2,30,Information Technology,Yes,Yes
+40,42990,5,1,3,1,45,Information Technology,Yes,Yes
+52,77551,27,2,4,3,20,Business Development,No,Yes
+27,95811,11,3,1,2,29,Product Management,Yes,No
+53,70103,6,4,2,2,29,Data Science,No,No
+60,121122,17,3,3,2,23,Logistics,Yes,No
+59,34008,1,2,2,4,50,Information Technology,Yes,Yes
+38,47402,9,3,3,2,21,Marketing,No,No
+60,128550,14,4,1,4,48,Business Development,Yes,No
+21,106218,29,2,2,4,43,Customer Support,No,No
+31,148296,11,3,1,1,10,Research,No,No
+48,135779,25,2,3,1,41,Research & Development,Yes,No
+45,144714,16,2,3,2,12,Customer Support,No,No
+43,47441,3,1,3,3,30,Customer Support,Yes,No
+51,77368,6,1,3,2,33,Procurement,Yes,No
+50,107122,29,2,4,1,18,Human Resources,No,No
+55,59760,8,3,3,2,14,Finance,No,No
+27,38478,30,3,2,1,22,Human Resources,No,No
+36,142881,18,3,3,2,21,Data Science,No,No
+46,86854,27,4,1,3,1,Quality Assurance,No,No
+22,109230,26,2,4,2,49,Data Science,Yes,Yes
+21,100716,22,2,2,3,43,Design,No,No
+32,113538,6,4,4,3,15,Logistics,Yes,No
+25,30372,22,2,4,2,36,Sales,No,No
+57,44796,1,2,4,3,47,Legal,Yes,Yes
+52,113826,5,4,1,3,22,Cybersecurity,Yes,No
+29,135592,17,1,4,1,32,Engineering,Yes,Yes
+55,108635,5,2,4,1,46,Sales,Yes,No
+39,126022,12,4,3,3,33,Quality Assurance,Yes,No
+36,69040,25,3,1,4,41,Business Development,No,No
+23,90357,18,1,2,2,39,Product Management,Yes,No
+40,93356,29,3,2,3,23,Information Technology,No,No
+44,31211,1,2,2,2,43,Administration,Yes,Yes
+53,120426,11,1,1,1,2,Research & Development,No,Yes
+44,20842,14,4,2,2,2,Engineering,Yes,Yes
+31,81852,13,2,1,3,38,Logistics,Yes,Yes
+28,140737,5,4,3,3,29,Marketing,No,No
+56,60968,17,1,3,3,46,Sales,No,Yes
+58,32508,4,3,1,3,3,Human Resources,Yes,No
+60,69575,17,2,2,4,39,Quality Assurance,Yes,Yes
+40,81914,2,2,1,4,7,Customer Support,No,No
+55,82055,2,4,1,4,36,Cybersecurity,Yes,No
+45,102697,21,1,4,3,29,Procurement,Yes,Yes
+55,121239,21,4,1,4,37,Logistics,No,No
+45,138106,9,1,4,2,49,Marketing,Yes,No
+49,20355,18,2,3,3,36,Quality Assurance,Yes,Yes
+38,69120,2,1,4,1,23,Human Resources,No,No
+38,53342,28,2,1,3,45,Cybersecurity,Yes,Yes
+22,17257,11,1,3,2,16,Research & Development,No,No
+55,42364,28,3,4,4,48,Legal,No,No
+36,126715,15,1,1,3,31,Quality Assurance,Yes,Yes
+56,41654,16,3,3,4,34,Procurement,Yes,No
+53,96423,6,1,4,3,50,Procurement,No,Yes
+24,44320,12,1,1,2,1,Operations,No,No
+53,35808,23,4,1,3,18,Information Technology,Yes,No
+34,67389,1,4,2,4,40,Quality Assurance,No,No
+41,133581,3,2,2,4,43,Finance,Yes,No
+40,142927,9,4,4,2,15,Logistics,No,No
+28,49773,6,1,4,3,48,Operations,No,No
+27,91396,23,4,4,1,49,Information Technology,No,No
+23,122692,16,1,1,3,17,Operations,Yes,Yes
+37,72505,19,3,4,2,44,Engineering,No,Yes
+53,100896,5,1,1,1,10,Design,No,No
+32,33135,18,2,4,2,20,Legal,No,No
+42,105887,4,3,1,3,6,Marketing,No,No
+42,137118,9,2,1,1,8,Logistics,Yes,Yes
+50,62377,8,2,2,2,45,Customer Support,No,No
+58,77491,26,2,3,4,34,Data Science,Yes,No
+58,73283,12,4,1,1,32,Human Resources,No,No
+28,31923,18,2,4,1,42,Sales,No,No
+47,62591,20,3,2,2,4,Operations,Yes,No
+47,77261,23,1,4,4,44,Customer Support,Yes,Yes
+54,69336,5,2,4,1,50,Engineering,No,No
+41,89083,3,3,1,2,39,Sales,No,Yes
+50,75948,23,2,1,1,20,Quality Assurance,No,No
+53,41672,26,1,3,1,24,Sales,Yes,Yes
+48,19213,2,3,1,1,24,Sales,No,Yes
+53,77507,2,3,1,4,26,Information Technology,Yes,Yes
+25,72134,3,1,3,3,25,Legal,No,No
+39,148172,24,3,4,3,36,Marketing,Yes,No
+24,43172,4,1,3,4,7,Logistics,Yes,Yes
+55,35132,7,3,3,4,10,Engineering,Yes,No
+37,33199,15,3,3,2,47,Procurement,No,No
+48,51609,21,1,2,1,12,Product Management,No,No
+50,46881,2,1,4,4,1,Research,Yes,Yes
+49,39472,30,3,2,2,50,Sales,Yes,Yes
+26,69131,23,3,2,3,25,Customer Support,Yes,No
+55,27828,11,1,1,3,16,Procurement,No,Yes
+57,111664,24,4,3,3,5,Operations,No,Yes
+44,147473,7,1,3,3,19,Engineering,No,Yes
+49,30193,12,3,2,2,4,Cybersecurity,Yes,Yes
+51,117518,3,3,1,1,6,Procurement,No,No
+55,34611,13,3,1,2,26,Administration,No,Yes
+53,91240,13,1,1,1,49,Marketing,No,No
+41,17745,12,3,4,3,39,Cybersecurity,Yes,No
+52,70243,26,4,2,4,39,Administration,No,No
+43,18866,5,2,4,4,9,Product Management,No,Yes
+53,143681,16,4,1,4,45,Operations,No,Yes
+23,86354,3,1,1,1,14,Information Technology,No,No
+38,66374,7,3,1,3,48,Engineering,No,No
+45,129397,16,1,3,2,9,Procurement,Yes,No
+51,139577,2,2,2,4,15,Engineering,Yes,No
+23,96029,16,1,3,1,37,Procurement,Yes,No
+60,108574,8,3,4,4,50,Procurement,Yes,No
+44,45431,1,2,3,2,20,Legal,No,No
+52,44336,24,2,2,3,8,Product Management,No,No
+42,55992,12,3,3,2,32,Engineering,Yes,Yes
+43,70350,19,3,1,3,47,Administration,Yes,Yes
+22,84561,1,3,4,3,21,Information Technology,Yes,Yes
+47,66955,19,1,4,3,41,Finance,No,Yes
+22,76240,27,4,1,4,19,Design,No,No
+46,61607,10,1,1,2,29,Logistics,No,Yes
+37,67870,26,1,1,4,31,Business Development,Yes,Yes
+60,79110,25,4,2,2,6,Data Science,Yes,No
+53,131895,21,3,3,1,4,Information Technology,Yes,Yes
+29,19426,14,3,4,1,43,Logistics,No,No
+59,42606,10,4,3,2,29,Marketing,No,Yes
+49,43151,22,4,1,2,42,Logistics,Yes,Yes
+46,26308,2,1,1,2,3,Cybersecurity,Yes,Yes
+55,105306,2,2,3,2,1,Sales,No,No
+45,121984,27,4,4,3,44,Procurement,No,No
+44,17204,25,1,2,4,15,Research & Development,Yes,Yes
+33,107769,11,2,3,3,47,Business Development,Yes,Yes
+27,102265,23,3,1,4,21,Research,No,Yes
+56,46131,4,3,1,4,46,Finance,Yes,Yes
+40,67428,19,1,2,4,31,Cybersecurity,Yes,No
+21,48870,6,1,3,3,7,Research & Development,No,Yes
+28,118547,6,4,2,2,17,Procurement,Yes,No
+36,64067,12,3,2,3,19,Quality Assurance,No,No
+34,127217,8,1,4,3,39,Human Resources,Yes,Yes
+32,113934,24,3,4,4,3,Sales,No,Yes
+43,89707,20,3,1,1,30,Finance,Yes,No
+35,76215,12,4,3,1,35,Design,Yes,Yes
+48,64429,11,2,4,3,29,Logistics,Yes,No
+54,97152,12,4,1,4,50,Research & Development,No,Yes
+22,123048,23,1,3,3,14,Data Science,Yes,Yes
+52,92240,9,4,1,3,35,Operations,Yes,Yes
+43,128688,0,4,4,2,28,Finance,No,Yes
+42,61473,24,3,1,4,30,Product Management,Yes,Yes
+45,111762,7,4,3,1,26,Procurement,No,No
+42,121956,21,1,3,1,7,Administration,No,No
+42,133452,15,2,1,1,39,Research,No,No
+26,141311,12,4,3,3,31,Quality Assurance,Yes,Yes
+35,22006,2,4,1,4,5,Legal,No,No
+57,89218,2,2,3,2,35,Business Development,Yes,No
+53,47430,23,1,1,1,50,Information Technology,No,No
+28,38091,4,1,1,4,47,Design,Yes,Yes
+25,38989,25,4,1,1,14,Logistics,No,No
+59,90451,10,3,2,2,36,Information Technology,No,No
+24,33990,29,4,3,4,27,Research,Yes,No
+26,105270,6,2,4,3,24,Marketing,No,No
+52,95360,20,2,1,3,40,Business Development,Yes,No
+50,51081,23,2,2,1,29,Legal,No,No
+55,123272,9,4,4,1,45,Cybersecurity,Yes,No
+60,31241,9,4,1,4,22,Procurement,No,Yes
+36,139932,19,1,4,2,8,Procurement,No,No
+33,20939,1,3,2,1,15,Business Development,Yes,Yes
+50,128000,2,4,4,4,49,Cybersecurity,No,No
+39,50063,7,1,1,2,5,Legal,Yes,Yes
+37,62118,30,4,4,1,4,Customer Support,Yes,No
+39,99703,10,1,4,1,11,Human Resources,No,No
+48,143557,12,1,1,4,18,Sales,No,No
+46,42076,6,3,2,1,42,Marketing,No,No
+57,59605,12,4,2,3,49,Cybersecurity,Yes,Yes
+46,99565,1,1,4,2,30,Research,Yes,Yes
+43,54121,5,2,3,2,15,Data Science,No,No
+29,46433,8,2,4,3,6,Quality Assurance,Yes,Yes
+32,58309,30,2,3,4,16,Sales,No,No
+21,82468,19,3,4,3,47,Research,No,No
+21,82293,24,1,2,3,40,Logistics,No,No
+54,111258,1,3,4,2,9,Quality Assurance,Yes,No
+52,53405,17,4,4,4,43,Logistics,Yes,Yes
+45,58527,15,4,3,1,34,Sales,No,No
+60,92227,24,1,2,3,27,Research & Development,Yes,Yes
+21,146564,11,2,3,3,13,Research,No,No
+36,108344,6,1,4,4,36,Sales,No,Yes
+59,62153,6,1,1,3,27,Operations,Yes,Yes
+25,123042,16,1,4,4,9,Operations,No,No
+42,69110,12,3,4,1,5,Cybersecurity,No,No
+49,43328,10,4,3,4,22,Business Development,No,No
+23,127911,5,1,1,1,31,Marketing,No,Yes
+32,27867,28,1,1,4,3,Legal,No,No
+46,74234,22,1,3,3,30,Human Resources,Yes,Yes
+36,40851,26,3,2,1,21,Legal,Yes,No
+57,46279,13,3,1,3,35,Research & Development,No,No
+42,88402,5,3,1,1,6,Operations,Yes,Yes
+49,30449,5,1,3,4,28,Research,No,No
+34,91221,1,2,2,4,32,Marketing,No,Yes
+48,104080,21,2,2,4,42,Business Development,No,No
+25,20451,19,2,4,2,37,Human Resources,No,No
+50,102178,24,4,4,2,25,Engineering,Yes,No
+25,78761,14,1,3,1,32,Administration,Yes,No
+32,53870,27,2,2,2,35,Procurement,No,No
+36,111566,16,2,3,4,22,Marketing,Yes,No
+46,138749,28,2,4,2,24,Research & Development,No,No
+46,138765,7,1,3,2,39,Customer Support,Yes,Yes
+41,139881,4,2,3,3,30,Customer Support,No,No
+59,143389,16,2,1,1,50,Marketing,No,No
+56,40372,19,1,1,1,32,Design,No,No
+53,18642,0,4,1,1,31,Procurement,Yes,Yes
+50,49064,21,3,4,2,23,Research & Development,Yes,No
+57,29122,17,2,3,4,40,Data Science,No,No
+43,83431,14,3,1,3,33,Product Management,Yes,Yes
+30,70745,4,4,1,1,25,Human Resources,Yes,No
+25,65081,6,4,1,2,36,Sales,Yes,No
+56,91253,17,2,4,4,24,Human Resources,Yes,No
+54,51191,5,1,4,3,31,Operations,Yes,No
+51,25211,21,4,3,3,39,Cybersecurity,Yes,Yes
+30,126086,20,3,3,1,46,Product Management,Yes,No
+39,116971,4,3,3,1,13,Procurement,Yes,No
+52,108783,29,3,1,4,10,Logistics,Yes,No
+21,140681,18,3,2,2,23,Legal,Yes,No
+25,102893,30,4,4,4,18,Legal,Yes,No
+24,92960,9,2,1,1,32,Research & Development,Yes,Yes
+36,99388,14,2,1,4,33,Research,Yes,Yes
+44,37601,9,3,3,2,36,Customer Support,No,No
+36,34710,26,2,3,3,28,Design,No,No
+22,123714,15,3,1,3,16,Research,Yes,No
+48,143727,11,3,4,3,16,Information Technology,Yes,Yes
+52,78227,17,1,4,3,18,Operations,Yes,Yes
+47,99289,22,4,1,1,8,Design,No,Yes
+40,20722,0,4,2,1,42,Administration,No,No
+44,96050,15,3,2,2,16,Engineering,Yes,No
+32,98596,21,4,4,2,11,Information Technology,Yes,No
+55,81732,5,2,3,2,6,Information Technology,Yes,No
+53,83323,2,3,2,2,1,Customer Support,Yes,No
+53,38816,1,1,2,4,12,Customer Support,Yes,Yes
+57,55695,27,2,3,2,38,Cybersecurity,No,No
+32,70841,1,1,2,3,28,Legal,Yes,Yes
+23,143498,29,1,1,3,45,Data Science,No,No
+21,122096,12,4,2,3,17,Customer Support,Yes,No
+53,107764,8,4,3,4,1,Operations,Yes,No
+60,100744,15,3,1,2,32,Human Resources,No,No
+30,43482,26,4,2,3,8,Cybersecurity,No,No
+49,24171,4,1,4,3,40,Data Science,Yes,No
+33,115755,22,1,1,3,43,Engineering,No,No
+32,123125,27,2,1,3,46,Research,Yes,Yes
+51,145722,20,1,4,1,24,Cybersecurity,No,No
+22,121082,6,3,4,2,10,Administration,No,No
+55,18696,12,3,2,2,47,Business Development,Yes,Yes
+43,141310,19,4,2,4,39,Finance,Yes,Yes
+37,34149,23,4,3,1,39,Business Development,No,Yes
+46,145064,28,4,3,4,10,Product Management,Yes,No
+28,68521,26,3,1,3,36,Data Science,No,No
+49,60740,29,1,4,4,25,Marketing,No,No
+46,121611,25,4,4,3,50,Cybersecurity,Yes,Yes
+30,81641,12,2,3,3,10,Data Science,No,No
+46,78811,26,4,1,2,19,Business Development,Yes,Yes
+54,78232,25,3,1,2,46,Research,Yes,Yes
+27,30417,6,4,3,2,45,Sales,No,No
+24,127492,9,1,3,2,15,Sales,Yes,No
+31,45099,14,4,3,2,16,Legal,No,No
+49,133474,20,3,2,1,2,Cybersecurity,No,No
+56,24256,26,3,1,2,29,Procurement,Yes,Yes
+45,49681,5,2,1,4,4,Sales,Yes,No
+41,106328,4,3,1,3,50,Design,No,Yes
+56,58361,22,2,3,2,29,Quality Assurance,Yes,Yes
+30,49540,27,1,3,1,31,Cybersecurity,No,No
+57,99700,1,3,3,4,17,Finance,No,No
+29,93532,20,4,3,4,10,Administration,No,No
+44,142626,14,1,4,3,27,Design,No,Yes
+55,148943,25,4,3,4,41,Product Management,No,No
+55,61002,15,4,2,4,15,Cybersecurity,Yes,No
+56,64812,30,4,4,4,44,Operations,No,No
+38,123946,18,1,4,4,31,Engineering,No,No
+59,81668,8,1,3,1,21,Cybersecurity,No,Yes
+52,114003,28,3,1,3,41,Business Development,No,No
+44,57998,21,4,3,2,46,Information Technology,No,Yes
+43,119601,28,2,1,4,45,Design,No,No
+52,22812,25,3,3,1,26,Product Management,Yes,Yes
+57,76844,18,1,3,3,38,Engineering,Yes,Yes
+32,148251,6,2,1,2,36,Quality Assurance,No,No
+33,89601,3,1,1,3,17,Administration,No,Yes
+43,62857,29,2,1,1,3,Administration,No,Yes
+45,140555,2,3,1,1,14,Administration,Yes,Yes
+55,35700,23,2,2,1,49,Legal,No,No
+50,108330,28,3,1,4,13,Sales,No,No
+37,78353,19,1,3,1,41,Operations,No,No
+40,115772,10,2,3,2,27,Finance,No,No
+45,106502,0,4,2,4,1,Customer Support,No,No
+42,128943,5,4,1,3,17,Quality Assurance,No,No
+33,124850,25,1,3,2,48,Information Technology,Yes,No
+39,60095,10,2,2,4,50,Information Technology,No,Yes
+56,30523,26,4,3,1,34,Operations,No,Yes
+32,77433,0,3,2,3,14,Human Resources,No,No
+39,34991,20,2,2,1,17,Quality Assurance,No,No
+32,25775,6,2,4,2,3,Design,No,No
+29,99995,30,4,4,2,34,Logistics,No,No
+27,137808,5,3,1,4,40,Legal,No,No
+48,22415,13,3,4,2,25,Quality Assurance,No,No
+34,52044,1,3,2,3,2,Product Management,No,No
+51,64976,26,2,3,4,34,Quality Assurance,Yes,No
+39,18832,3,1,3,3,26,Operations,Yes,No
+36,49148,10,2,1,1,31,Procurement,Yes,No
+25,127230,14,2,4,3,9,Sales,No,No
+55,100076,17,4,1,3,30,Business Development,Yes,Yes
+32,53402,26,1,2,2,20,Design,Yes,No
+45,53578,0,3,4,1,21,Sales,Yes,No
+41,105453,30,4,1,2,29,Procurement,Yes,Yes
+56,90715,2,2,3,1,25,Information Technology,No,Yes
+43,126435,2,1,3,1,38,Logistics,Yes,Yes
+36,110742,30,3,1,3,44,Product Management,Yes,Yes
+59,60475,27,3,1,2,25,Finance,No,No
+59,75142,6,2,1,3,9,Logistics,Yes,Yes
+34,108526,0,3,2,3,39,Cybersecurity,No,No
+51,66001,24,3,2,3,44,Data Science,Yes,Yes
+25,72649,10,1,3,1,26,Customer Support,Yes,Yes
+55,40711,5,4,2,2,37,Data Science,Yes,No
+43,45106,19,1,2,2,16,Research & Development,No,No
+49,80458,2,4,4,3,37,Design,Yes,Yes
+31,145429,30,4,2,1,12,Data Science,Yes,No
+38,116754,18,4,4,2,24,Quality Assurance,No,No
+32,141479,1,3,2,4,26,Quality Assurance,Yes,No
+29,43884,17,1,3,2,20,Administration,Yes,Yes
+30,17708,29,3,1,3,9,Sales,Yes,Yes
+37,33375,11,2,3,4,23,Marketing,Yes,No
+58,30088,28,1,2,1,39,Design,Yes,No
+27,72615,9,4,1,4,29,Finance,No,Yes
+33,125138,4,3,1,4,31,Finance,No,No
+60,25014,8,3,1,3,19,Data Science,No,Yes
+29,149345,1,1,4,2,20,Data Science,Yes,No
+47,117842,1,1,3,1,23,Research,Yes,Yes
+22,93077,27,4,4,4,43,Business Development,Yes,No
+25,67874,5,4,1,3,27,Finance,Yes,Yes
+49,84087,28,2,3,2,30,Research & Development,Yes,No
+57,27297,30,4,3,4,21,Business Development,No,No
+58,42128,9,3,2,3,44,Business Development,No,No
+39,83368,17,2,4,3,35,Marketing,No,No
+28,93958,11,2,4,3,49,Customer Support,Yes,Yes
+21,47920,3,2,2,1,7,Sales,No,No
+42,148872,21,1,4,2,22,Data Science,No,No
+37,148682,20,4,1,4,10,Operations,No,No
+27,92603,16,2,1,2,23,Data Science,No,No
+45,48872,14,1,4,2,15,Customer Support,Yes,Yes
+24,25728,5,1,2,4,30,Cybersecurity,Yes,No
+56,110102,15,2,3,2,34,Quality Assurance,No,No
+26,137049,16,2,4,1,13,Data Science,No,No
+51,35583,2,3,3,4,4,Research,No,No
+39,100774,9,2,2,4,18,Product Management,No,No
+59,141374,4,3,3,3,23,Operations,No,No
+47,106118,13,2,2,2,33,Research & Development,No,Yes
+30,80942,25,2,2,4,34,Marketing,No,No
+46,28689,28,4,1,4,34,Customer Support,No,Yes
+39,48276,20,2,1,1,36,Research,No,No
+59,116968,12,2,2,3,35,Logistics,Yes,No
+23,28050,25,3,4,4,17,Logistics,No,No
+33,81216,5,3,1,1,28,Design,Yes,Yes
+48,99040,30,4,2,4,14,Cybersecurity,Yes,No
+40,36644,11,2,3,4,34,Product Management,No,No
+48,77021,25,2,3,4,48,Engineering,No,Yes
+28,57291,7,3,4,1,11,Engineering,Yes,No
+59,147610,4,1,3,2,13,Quality Assurance,Yes,No
+21,56520,29,1,3,4,33,Finance,No,No
+23,40675,14,1,2,4,2,Cybersecurity,Yes,Yes
+33,15174,26,3,3,2,34,Quality Assurance,No,Yes
+48,107268,15,3,3,4,29,Quality Assurance,No,No
+45,49998,0,1,3,3,37,Quality Assurance,Yes,Yes
+53,120410,15,1,3,4,4,Quality Assurance,No,Yes
+58,90225,4,2,2,3,12,Procurement,Yes,No
+26,59814,2,3,3,2,26,Human Resources,No,Yes
+52,100091,19,3,4,1,28,Design,No,No
+41,65719,14,1,1,2,3,Quality Assurance,Yes,Yes
+36,144887,30,1,4,4,20,Administration,Yes,No
+41,48919,12,4,1,3,10,Product Management,No,No
+31,88155,23,3,4,1,18,Engineering,No,No
+57,86569,15,4,1,4,27,Business Development,Yes,Yes
+56,56328,22,2,1,1,31,Data Science,No,No
+55,39618,10,4,1,1,27,Data Science,Yes,Yes
+39,49675,20,1,1,4,42,Sales,Yes,No
+40,33919,1,3,2,2,1,Business Development,Yes,No
+38,19173,21,3,4,4,6,Sales,No,Yes
+34,124369,26,4,1,4,11,Finance,Yes,No
+35,41400,5,4,4,2,34,Product Management,No,Yes
+51,85305,25,2,3,3,39,Research & Development,Yes,Yes
+21,103791,25,2,1,4,20,Information Technology,No,No
+23,85533,29,1,4,1,21,Information Technology,No,No
+36,118591,26,1,2,4,21,Administration,Yes,No
+43,146060,5,1,4,4,18,Marketing,Yes,Yes
+31,54194,13,4,1,1,21,Research,Yes,Yes
+32,124903,24,4,3,2,19,Legal,No,No
+30,146461,10,3,4,3,4,Product Management,No,No
+52,114303,7,1,3,3,13,Business Development,No,Yes
+36,128903,7,4,2,1,18,Logistics,Yes,No
+28,82391,0,3,4,2,29,Sales,Yes,No
+58,73002,20,1,4,4,25,Cybersecurity,Yes,Yes
+32,50531,6,2,2,4,13,Sales,Yes,Yes
+44,19986,5,2,2,4,27,Procurement,Yes,No
+48,47298,20,4,2,4,19,Marketing,No,No
+28,16481,7,3,1,4,49,Research & Development,Yes,No
+48,71408,18,2,1,1,1,Business Development,No,Yes
+56,136950,21,3,4,4,38,Logistics,Yes,Yes
+46,140355,30,3,4,4,19,Administration,Yes,No
+28,42798,20,2,4,2,1,Logistics,Yes,No
+48,106649,23,3,3,4,40,Research & Development,Yes,No
+48,79887,19,2,2,3,17,Procurement,Yes,No
+57,34477,7,4,4,1,21,Cybersecurity,No,No
+56,142815,25,1,2,1,22,Information Technology,Yes,Yes
+47,142426,13,1,1,1,15,Data Science,No,No
+37,39335,30,4,2,3,50,Research & Development,No,No
+29,101610,17,2,3,4,39,Operations,No,No
+53,26442,24,2,3,1,48,Sales,No,No
+40,61289,28,2,2,3,39,Design,Yes,Yes
+33,68747,15,2,3,2,32,Administration,Yes,Yes
+48,52327,8,4,3,4,49,Marketing,Yes,No
+49,87827,14,1,1,3,4,Finance,Yes,Yes
+33,121464,29,3,4,4,44,Customer Support,Yes,No
+55,146184,25,3,3,2,45,Customer Support,No,No
+26,102051,9,1,4,3,32,Finance,Yes,Yes
+38,74722,28,4,2,4,4,Legal,Yes,Yes
+25,107036,21,3,2,3,1,Information Technology,No,No
+45,81960,15,1,3,1,33,Product Management,Yes,Yes
+22,34552,3,4,2,4,7,Product Management,Yes,Yes
+30,15887,19,3,1,3,9,Design,No,No
+50,46802,12,2,3,1,1,Engineering,Yes,No
+25,100024,21,2,3,2,16,Logistics,No,No
+53,133639,4,4,3,4,18,Administration,No,No
+21,133248,21,2,2,4,47,Human Resources,Yes,No
+38,96938,6,4,2,2,6,Legal,No,No
+52,137746,22,1,3,1,2,Research & Development,Yes,Yes
+31,41049,8,1,4,2,9,Business Development,Yes,No
+41,92789,7,3,2,4,4,Logistics,Yes,No
+46,99526,28,4,2,3,45,Product Management,No,Yes
+45,61220,15,3,3,1,23,Design,No,No
+42,61163,5,3,4,1,43,Customer Support,No,No
+47,149837,27,1,3,1,45,Research,No,No
+33,132126,15,3,2,2,43,Procurement,No,No
+53,96486,5,2,3,2,8,Design,No,No
+54,90277,30,3,3,3,39,Sales,No,Yes
+55,119245,13,4,3,3,25,Human Resources,No,No
+21,137332,20,2,4,1,16,Human Resources,No,Yes
+41,37931,0,1,3,3,35,Marketing,No,No
+26,104116,24,4,2,2,17,Administration,No,No
+48,70633,8,2,3,3,18,Logistics,Yes,No
+37,66913,24,4,4,2,27,Logistics,No,No
+25,109776,30,2,1,3,15,Quality Assurance,Yes,No
+51,40991,26,4,4,4,17,Cybersecurity,Yes,Yes
+25,119092,23,4,3,2,43,Information Technology,Yes,Yes
+58,110556,12,2,1,4,5,Research & Development,Yes,No
+23,77875,25,1,3,2,16,Design,No,No
+43,77120,28,1,4,3,15,Finance,Yes,No
+57,148060,18,4,1,4,42,Research & Development,Yes,Yes
+57,125041,16,4,1,3,46,Design,Yes,Yes
+30,143467,10,1,3,2,34,Administration,No,No
+30,133490,27,1,3,4,48,Legal,Yes,Yes
+39,141155,27,3,4,1,19,Research,Yes,No
+37,43230,7,1,3,3,8,Sales,No,No
+41,74778,22,4,1,2,47,Cybersecurity,No,Yes
+34,60833,28,2,2,4,10,Data Science,No,No
+29,37625,4,1,2,3,5,Product Management,No,Yes
+21,47088,9,3,4,4,48,Logistics,No,Yes
+33,118937,6,3,3,3,26,Research,No,No
+24,91361,9,3,4,3,22,Quality Assurance,No,No
+21,103229,3,2,2,3,44,Logistics,No,No
+60,105265,8,1,2,4,23,Sales,No,No
+52,112718,26,1,3,4,13,Sales,Yes,Yes
+54,75710,25,1,1,3,9,Human Resources,No,Yes
+48,109876,13,2,3,1,49,Finance,Yes,No
+51,45949,1,2,2,1,20,Cybersecurity,Yes,No
+28,83136,24,4,1,1,28,Data Science,No,Yes
+59,126541,8,3,4,2,44,Legal,No,No
+46,76842,20,3,2,1,37,Operations,No,No
+54,41990,26,1,4,4,24,Quality Assurance,No,No
+23,45109,0,2,1,1,44,Cybersecurity,Yes,No
+32,145356,22,2,4,4,33,Business Development,Yes,No
+21,143133,9,1,2,2,20,Marketing,No,No
+25,16306,9,1,3,4,48,Administration,Yes,Yes
+50,18849,19,4,4,4,30,Customer Support,No,Yes
+50,27360,24,3,2,4,44,Cybersecurity,Yes,No
+37,126072,21,3,2,1,9,Human Resources,Yes,No
+43,109767,28,3,1,3,45,Sales,No,Yes
+35,69330,2,4,2,4,49,Cybersecurity,No,No
+57,66707,5,1,3,1,17,Procurement,Yes,Yes
+41,33689,28,1,3,1,36,Operations,No,Yes
+34,44084,25,3,4,1,14,Cybersecurity,Yes,No
+22,55387,5,3,4,3,19,Engineering,No,No
+31,89816,20,4,4,3,7,Administration,No,Yes
+59,17642,1,2,4,3,3,Procurement,No,Yes
+58,57137,25,2,3,3,33,Product Management,No,No
+54,77260,25,3,1,2,44,Logistics,No,Yes
+58,63442,17,4,4,3,32,Data Science,No,No
+54,118061,22,3,1,3,47,Engineering,No,No
+38,149066,1,2,2,3,11,Operations,Yes,No
+50,140844,11,3,2,4,42,Engineering,No,No
+35,114575,21,2,4,4,2,Cybersecurity,Yes,No
+47,16813,4,2,2,3,26,Data Science,No,Yes
+54,108027,19,2,1,2,4,Sales,Yes,No
+58,138489,6,1,1,4,17,Quality Assurance,No,Yes
+53,99381,23,1,2,1,17,Human Resources,No,Yes
+44,70276,15,3,4,4,28,Engineering,Yes,No
+35,56243,19,2,1,1,30,Research & Development,No,Yes
+50,75272,0,1,1,4,40,Operations,No,Yes
+37,80618,0,3,3,3,23,Design,No,No
+25,16920,16,3,4,4,46,Quality Assurance,No,No
+49,121121,26,3,3,3,24,Design,No,No
+24,91872,0,3,2,3,29,Research & Development,Yes,Yes
+30,96132,20,3,2,4,4,Administration,No,Yes
+37,17093,19,4,3,1,38,Cybersecurity,Yes,Yes
+30,27905,12,2,4,1,29,Procurement,Yes,Yes
+37,136759,29,3,1,4,19,Human Resources,Yes,Yes
+40,45981,8,4,2,3,27,Legal,Yes,Yes
+44,88903,14,2,4,1,29,Human Resources,Yes,No
+25,85821,2,1,4,2,36,Data Science,Yes,No
+54,124200,13,3,2,3,35,Design,Yes,No
+26,97289,22,4,2,4,6,Logistics,Yes,No
+22,131506,10,1,4,3,23,Information Technology,No,Yes
+33,93513,23,4,1,2,39,Procurement,Yes,No
+31,65516,21,2,3,2,46,Information Technology,No,No
+43,84212,11,2,2,1,44,Finance,Yes,No
+36,148498,12,1,3,2,48,Customer Support,Yes,Yes
+51,145970,25,4,4,3,8,Cybersecurity,No,No
+31,105009,12,3,3,1,2,Cybersecurity,Yes,No
+36,59816,0,3,1,2,13,Procurement,No,Yes
+28,19138,23,1,4,1,40,Data Science,Yes,No
+24,106176,30,1,1,1,21,Information Technology,No,No
+60,90945,9,1,4,4,31,Finance,No,No
+24,19017,2,4,1,1,48,Business Development,Yes,Yes
+45,25451,23,3,4,1,36,Administration,Yes,Yes
+23,108863,27,3,1,2,48,Operations,Yes,Yes
+52,25278,3,3,4,3,38,Research & Development,Yes,No
+23,58764,15,1,1,3,27,Research,No,No
+47,138030,7,3,4,2,36,Research & Development,No,No
+49,147206,15,2,1,3,48,Customer Support,No,No
+52,77943,26,1,2,1,23,Human Resources,No,No
+39,110667,16,3,3,4,21,Sales,No,No
+41,69318,18,4,4,1,13,Engineering,No,No
+25,118423,21,1,1,1,37,Procurement,No,Yes
+38,118998,14,2,2,4,47,Business Development,Yes,Yes
+48,75128,15,2,4,2,26,Finance,Yes,No
+42,36869,14,4,4,1,40,Administration,Yes,Yes
+41,20039,24,4,4,1,7,Customer Support,Yes,Yes
+26,127935,1,1,3,2,46,Product Management,Yes,Yes
+21,25442,10,1,1,1,39,Finance,Yes,Yes
+25,88788,0,2,1,1,22,Legal,Yes,Yes
+32,134729,14,4,4,3,39,Product Management,Yes,Yes
+46,42586,25,1,4,2,23,Customer Support,No,No
+54,68053,18,2,4,1,30,Data Science,Yes,No
+34,101346,3,4,2,1,18,Product Management,Yes,Yes
+46,82087,10,2,4,4,42,Research & Development,Yes,No
+47,49397,4,3,3,4,18,Marketing,No,No
+29,73671,2,4,1,4,46,Business Development,Yes,Yes
+46,131214,12,1,3,1,10,Product Management,No,Yes
+42,81897,9,1,4,1,39,Research,No,No
+50,29924,10,3,2,4,30,Research & Development,Yes,Yes
+37,128143,17,4,4,3,26,Business Development,No,No
+46,125253,1,2,4,3,7,Business Development,Yes,No
+56,115297,6,1,4,3,7,Customer Support,Yes,Yes
+21,15869,8,3,4,3,5,Human Resources,Yes,No
+28,112088,9,3,4,2,1,Procurement,No,No
+55,16014,17,4,1,4,46,Legal,Yes,Yes
+35,25103,22,4,3,1,18,Marketing,Yes,Yes
+42,125317,6,1,2,4,13,Customer Support,Yes,No
+34,97409,26,3,4,3,25,Finance,No,No
+46,38248,6,2,2,1,40,Administration,No,No
+48,23024,2,3,1,2,8,Cybersecurity,No,No
+43,100947,11,2,3,4,10,Legal,No,No
+34,106829,6,2,4,1,32,Design,Yes,No
+44,107708,16,1,1,1,17,Marketing,Yes,Yes
+22,101664,25,3,1,3,38,Operations,No,Yes
+46,100178,0,2,3,3,15,Administration,Yes,No
+34,116121,4,4,4,4,15,Research,No,No
+27,35025,15,2,3,2,48,Quality Assurance,Yes,No
+23,78610,14,4,3,1,40,Quality Assurance,Yes,No
+43,85843,1,4,2,3,20,Design,No,No
+38,122237,8,3,2,4,15,Cybersecurity,No,Yes
+58,145299,30,4,3,3,35,Engineering,Yes,Yes
+55,20668,6,2,2,4,6,Sales,No,No
+35,88233,3,4,1,3,30,Cybersecurity,Yes,Yes
+45,96982,19,3,3,2,8,Research & Development,Yes,No
+57,121133,17,1,4,1,31,Human Resources,Yes,No
+48,25751,20,2,4,3,48,Business Development,Yes,Yes
+30,61218,3,2,1,1,47,Cybersecurity,No,No
+59,141649,27,3,4,4,32,Logistics,Yes,No
+37,22352,12,3,4,2,45,Data Science,Yes,Yes
+59,103835,0,3,3,1,15,Operations,Yes,Yes
+42,112493,27,3,1,3,18,Legal,No,Yes
+46,43927,23,2,3,1,13,Logistics,Yes,No
+45,116948,2,1,1,1,24,Finance,No,No
+37,44493,15,4,3,4,40,Customer Support,No,Yes
+33,46707,29,4,3,2,14,Human Resources,No,No
+40,50842,21,1,2,2,28,Sales,No,Yes
+45,28261,3,1,4,1,11,Procurement,No,No
+24,91709,24,1,1,1,6,Customer Support,No,Yes
+30,110985,22,3,4,4,25,Sales,No,No
+23,121616,24,2,2,1,1,Procurement,Yes,Yes
+38,82173,15,2,1,4,25,Research & Development,Yes,No
+56,46781,25,2,2,2,2,Product Management,No,No
+42,28652,18,3,4,2,32,Research,No,No
+54,20103,0,2,3,4,13,Design,No,No
+28,40500,4,3,2,1,33,Human Resources,Yes,No
+60,115336,18,2,2,2,32,Operations,No,Yes
+39,128499,21,1,3,3,24,Finance,Yes,Yes
+57,64393,23,4,4,4,27,Marketing,Yes,Yes
+26,62406,10,4,2,2,4,Engineering,No,No
+46,78059,12,3,4,2,24,Design,Yes,No
+54,97722,19,2,3,2,23,Cybersecurity,No,No
+26,27356,4,4,1,3,29,Cybersecurity,No,No
+57,143128,20,1,2,3,34,Business Development,No,Yes
+53,17187,3,1,4,3,21,Sales,Yes,No
+42,92243,3,1,3,1,30,Design,No,No
+41,50098,3,3,3,4,26,Data Science,Yes,No
+26,149678,3,3,2,1,20,Logistics,No,No
+26,72620,19,2,1,3,16,Administration,No,No
+24,141270,20,1,2,4,3,Marketing,No,No
+50,29387,17,2,4,1,49,Cybersecurity,No,No
+31,84463,17,2,3,1,37,Finance,No,No
+50,148663,15,1,1,1,40,Legal,Yes,Yes
+51,106683,8,2,4,3,44,Marketing,No,No
+44,77061,17,4,2,2,25,Quality Assurance,No,No
+29,96257,21,3,3,4,23,Cybersecurity,No,No
+23,76753,1,2,2,3,44,Information Technology,Yes,Yes
+51,99774,20,1,1,4,1,Sales,No,No
+60,38408,3,3,1,3,33,Marketing,No,No
+57,139116,11,3,1,1,15,Operations,No,No
+56,146208,6,2,1,1,17,Information Technology,No,No
+44,32413,14,4,1,2,34,Sales,Yes,Yes
+51,128650,6,2,2,2,17,Procurement,No,Yes
+26,74500,28,4,1,4,41,Customer Support,Yes,Yes
+22,99514,21,3,1,2,44,Business Development,Yes,No
+40,71358,25,2,3,2,4,Engineering,Yes,No
+48,81197,20,1,1,4,13,Cybersecurity,Yes,Yes
+31,91240,16,2,3,3,4,Logistics,No,No
+24,31322,15,4,3,2,7,Product Management,No,Yes
+35,128053,27,4,3,3,46,Finance,Yes,No
+26,21968,30,2,2,1,9,Sales,Yes,Yes
+50,42518,18,4,2,2,23,Business Development,Yes,Yes
+58,66925,8,3,4,1,33,Research & Development,No,No
+22,126900,30,2,4,1,33,Product Management,Yes,Yes
+35,108422,13,4,3,3,20,Finance,Yes,No
+31,16700,16,2,2,4,4,Logistics,Yes,No
+28,108782,4,2,1,2,1,Quality Assurance,Yes,No
+46,38199,1,1,4,3,42,Product Management,Yes,Yes
+25,20520,19,2,2,4,34,Information Technology,No,No
+26,124814,15,1,1,1,27,Customer Support,Yes,Yes
+46,138364,13,4,1,2,21,Logistics,No,Yes
+24,29955,13,1,2,1,24,Information Technology,No,No
+39,79925,26,1,4,1,15,Research,No,Yes
+40,122216,0,1,2,2,35,Design,No,No
+53,85269,2,3,4,4,25,Cybersecurity,No,No
+40,56458,25,1,3,4,9,Business Development,Yes,Yes
+32,104037,6,2,2,2,17,Procurement,No,No
+21,114977,25,1,2,2,21,Research & Development,No,Yes
+46,58939,14,2,4,3,13,Customer Support,Yes,No
+34,44345,18,1,4,3,3,Research & Development,No,No
+58,125107,19,3,2,1,4,Operations,Yes,No
+57,136866,1,4,1,2,4,Procurement,Yes,Yes
+31,84166,18,1,1,4,43,Operations,Yes,Yes
+56,112406,8,1,1,1,28,Administration,Yes,Yes
+33,64298,18,3,3,1,7,Business Development,Yes,No
+23,59942,26,1,3,1,26,Research & Development,No,No
+53,18453,4,2,4,1,11,Research,Yes,No
+26,117811,17,1,3,4,24,Customer Support,Yes,No
+30,69935,15,1,1,1,43,Research,No,No
+25,137439,3,4,2,2,10,Legal,No,Yes
+43,23328,11,4,3,3,37,Research & Development,No,Yes
+30,30534,28,1,3,4,13,Administration,No,No
+22,100280,6,3,1,2,44,Engineering,Yes,Yes
+33,51320,13,4,3,2,42,Data Science,No,No
+60,64170,22,1,4,2,39,Procurement,Yes,No
+22,115546,11,4,2,3,19,Marketing,No,No
+40,95201,2,1,1,3,19,Finance,No,No
+21,23640,4,4,4,3,12,Finance,No,No
+57,147992,16,4,1,2,22,Logistics,No,No
+29,58937,25,2,4,3,47,Human Resources,No,No
+37,85463,9,1,2,1,37,Sales,Yes,No
+29,108500,9,1,2,3,30,Engineering,Yes,Yes
+31,52158,10,1,4,4,46,Logistics,Yes,Yes
+35,99607,16,1,4,2,12,Operations,No,No
+44,134639,4,4,4,2,29,Procurement,Yes,No
+58,86696,12,2,4,1,21,Administration,No,No
+55,76510,9,2,4,3,11,Data Science,No,No
+50,135076,8,3,4,3,37,Research & Development,Yes,No
+51,73692,16,1,2,4,48,Business Development,Yes,Yes
+25,145841,0,3,4,1,18,Quality Assurance,No,Yes
+34,30810,3,4,3,4,44,Administration,No,No
+31,126718,3,3,2,4,27,Procurement,Yes,No
+29,105932,17,1,1,2,37,Cybersecurity,No,No
+54,15192,8,2,2,2,48,Customer Support,Yes,No
+32,51413,29,2,1,3,12,Sales,Yes,Yes
+55,54082,24,1,1,3,23,Information Technology,No,No
+55,80048,28,4,3,4,34,Procurement,No,No
+21,138130,28,1,4,3,38,Information Technology,No,No
+60,65940,17,4,4,4,23,Data Science,No,No
+42,55142,13,2,2,3,25,Customer Support,Yes,Yes
+49,51468,24,4,4,3,4,Quality Assurance,No,No
+28,144048,14,1,3,2,30,Research & Development,Yes,Yes
+31,57056,5,1,2,2,30,Product Management,Yes,No
+57,66831,23,1,2,2,13,Human Resources,No,No
+34,74191,9,4,2,2,42,Marketing,Yes,No
+50,136948,28,4,4,1,49,Procurement,No,No
+55,123117,14,4,4,2,14,Data Science,No,No
+41,29671,28,2,4,1,47,Engineering,Yes,No
+57,42048,3,3,2,2,8,Human Resources,Yes,No
+25,40963,17,3,2,3,24,Engineering,Yes,No
+39,58954,17,1,1,4,18,Finance,No,No
+34,110430,24,2,1,3,35,Logistics,No,No
+46,15717,16,4,4,3,25,Administration,Yes,No
+24,26676,11,1,2,1,17,Customer Support,No,Yes
+45,133696,6,2,4,2,32,Legal,No,No
+45,145830,15,1,4,4,24,Human Resources,Yes,No
+38,19994,10,2,1,4,7,Logistics,No,No
+60,19234,13,2,3,2,13,Customer Support,Yes,No
+28,84300,2,3,4,1,27,Research & Development,Yes,No
+59,58949,18,1,3,1,48,Quality Assurance,Yes,No
+60,52405,17,4,3,1,5,Product Management,No,No
+34,49872,29,3,2,4,36,Legal,Yes,No
+52,57215,9,3,2,1,26,Human Resources,Yes,No
+58,38185,5,4,4,1,42,Logistics,Yes,Yes
+53,56153,12,2,1,4,45,Product Management,Yes,No
+43,92535,9,4,1,4,31,Data Science,No,No
+35,148653,17,1,4,3,10,Administration,Yes,No
+53,66717,25,4,4,4,46,Research & Development,No,Yes
+45,17763,30,2,1,2,26,Marketing,Yes,Yes
+37,107910,19,4,3,4,22,Operations,No,No
+53,70480,25,2,4,4,12,Administration,No,No
+22,133094,15,2,3,1,32,Data Science,No,No
+34,26064,24,1,4,3,27,Operations,No,No
+60,91848,24,4,4,1,33,Quality Assurance,Yes,No
+60,52548,5,4,3,3,20,Business Development,Yes,Yes
+59,21476,12,1,3,1,39,Information Technology,No,No
+26,105101,3,2,1,2,41,Sales,No,No
+26,17382,22,4,4,1,40,Quality Assurance,No,No
+23,94698,13,1,2,1,13,Marketing,Yes,Yes
+27,60095,0,2,2,2,14,Finance,No,No
+28,144974,27,1,4,2,44,Finance,No,Yes
+35,42197,19,4,4,4,40,Procurement,Yes,No
+49,142619,4,1,4,1,22,Procurement,Yes,No
+53,37010,7,3,3,2,18,Marketing,Yes,No
+50,102923,11,2,2,2,48,Administration,Yes,No
+59,148962,1,3,2,4,29,Quality Assurance,Yes,No
+47,145526,11,3,2,3,43,Design,Yes,Yes
+56,124162,4,2,4,2,16,Human Resources,No,No
+49,135927,21,2,3,2,46,Research & Development,No,No
+58,23026,4,1,4,1,35,Administration,Yes,No
+53,79925,30,2,1,4,34,Human Resources,No,No
+57,83842,12,3,1,1,3,Finance,Yes,No
+47,48665,8,3,2,3,4,Procurement,No,No
+53,24277,9,4,4,4,5,Administration,Yes,No
+24,63008,0,2,1,1,10,Cybersecurity,Yes,Yes
+42,29683,29,3,1,2,29,Research & Development,No,No
+22,146742,2,4,4,2,32,Marketing,No,No
+30,93542,29,4,3,4,31,Operations,Yes,Yes
+25,69319,17,1,4,2,2,Finance,Yes,Yes
+30,107067,11,3,4,1,12,Quality Assurance,Yes,No
+53,83975,28,1,3,4,27,Administration,Yes,Yes
+58,116158,2,3,2,2,5,Sales,Yes,No
+33,26577,25,1,2,2,37,Finance,Yes,Yes
+51,92299,24,1,2,3,27,Research & Development,No,No
+56,35176,28,2,3,3,23,Administration,No,No
+44,78972,29,1,1,4,33,Operations,No,Yes
+35,135018,8,2,3,3,4,Human Resources,No,No
+49,34996,25,4,4,1,21,Data Science,No,No
+28,115922,1,3,3,2,24,Engineering,Yes,Yes
+25,101598,29,4,1,2,44,Product Management,Yes,Yes
+49,50931,2,3,1,2,31,Marketing,No,No
+24,139168,13,4,4,4,44,Research,Yes,No
+32,138099,3,3,2,4,48,Design,No,Yes
+22,49693,24,1,1,3,24,Finance,No,Yes
+47,123944,18,3,1,2,49,Data Science,Yes,Yes
+51,32374,12,3,1,2,10,Customer Support,Yes,No
+56,96471,6,4,4,2,49,Finance,No,Yes
+56,60913,11,4,1,2,49,Product Management,No,No
+46,138683,2,4,2,2,50,Research & Development,No,No
+47,59516,22,2,4,1,2,Research & Development,No,Yes
+25,102796,22,2,2,2,31,Information Technology,Yes,Yes
+40,41069,8,3,1,1,25,Finance,No,No
+31,133333,1,3,1,2,4,Quality Assurance,Yes,Yes
+30,99811,28,1,2,4,11,Data Science,No,Yes
+60,133028,21,1,4,4,17,Design,No,No
+58,54178,8,3,4,1,44,Logistics,Yes,No
+26,47821,11,2,2,2,2,Information Technology,Yes,Yes
+28,31999,30,3,1,4,6,Logistics,Yes,Yes
+43,53712,11,1,3,4,9,Procurement,Yes,Yes
+46,48722,14,2,2,2,5,Research,Yes,Yes
+32,25625,1,2,2,2,20,Information Technology,No,No
+46,21859,17,1,2,4,29,Customer Support,No,Yes
+33,125986,12,3,1,2,21,Product Management,No,Yes
+60,36839,13,4,4,3,9,Logistics,Yes,No
+38,42216,4,3,1,2,28,Business Development,Yes,Yes
+45,67953,25,3,2,4,8,Operations,Yes,Yes
+53,64522,9,1,1,4,31,Research & Development,No,Yes
+60,126249,11,2,1,1,20,Customer Support,Yes,No
+32,22485,9,1,2,3,27,Legal,No,No
+56,127701,23,3,1,4,8,Sales,No,No
+24,117638,10,4,3,3,21,Data Science,No,No
+25,27226,30,4,1,2,28,Logistics,Yes,No
+57,108405,24,4,1,4,23,Design,No,No
+28,37588,1,1,4,1,6,Data Science,No,No
+48,52019,4,2,4,4,3,Research,No,No
+51,80133,29,1,2,1,5,Research,Yes,Yes
+29,129444,6,4,2,3,9,Operations,No,No
+49,132603,30,3,4,1,7,Human Resources,Yes,No
+34,143585,5,2,3,2,4,Research,Yes,No
+60,58395,21,1,1,2,39,Procurement,No,No
+42,140814,22,1,3,2,5,Logistics,No,No
+31,127599,2,2,3,4,11,Research,Yes,No
+43,40939,12,2,4,2,15,Customer Support,No,No
+21,15203,2,3,2,2,34,Research & Development,Yes,No
+57,44063,25,2,1,4,13,Data Science,Yes,Yes
+41,105880,24,3,2,3,48,Procurement,Yes,No
+46,18748,29,4,3,2,7,Administration,No,No
+56,132269,23,4,3,2,40,Legal,Yes,No
+43,95764,20,1,2,4,6,Marketing,Yes,Yes
+21,123036,5,4,2,3,39,Product Management,No,No
+60,131525,10,4,4,3,50,Engineering,No,No
+35,100679,27,3,2,3,30,Product Management,Yes,Yes
+41,140829,25,1,2,4,22,Design,Yes,No
+29,143216,16,2,4,1,25,Research & Development,Yes,No
+29,148175,9,1,2,1,28,Finance,No,Yes
+30,80901,11,4,3,2,20,Design,Yes,No
+46,113046,16,2,2,2,39,Logistics,Yes,No
+55,105012,3,1,1,2,3,Information Technology,No,Yes
+45,93278,1,1,3,1,5,Cybersecurity,No,No
+46,27391,10,1,4,4,1,Customer Support,Yes,No
+31,117476,6,1,3,2,15,Legal,No,No
+58,135721,1,3,4,4,26,Quality Assurance,Yes,No
+22,112537,25,1,1,2,3,Procurement,Yes,Yes
+27,96159,17,4,1,4,40,Business Development,No,Yes
+38,146040,20,4,3,4,41,Legal,Yes,Yes
+47,50503,3,3,2,1,47,Product Management,Yes,No
+54,90403,7,2,3,4,42,Customer Support,No,No
+47,79286,19,2,3,3,34,Research & Development,Yes,Yes
+37,89842,13,4,1,1,5,Operations,No,No
+44,119927,11,4,4,2,31,Sales,Yes,No
+45,29908,21,3,3,1,13,Quality Assurance,No,No
+27,52228,20,2,2,3,43,Product Management,No,No
+26,38386,26,2,1,3,1,Cybersecurity,No,No
+44,43302,29,1,3,4,22,Sales,No,No
+53,75815,17,1,3,3,15,Engineering,No,No
+49,78344,10,1,2,3,26,Legal,No,No
+42,126603,30,3,3,3,18,Cybersecurity,Yes,No
+46,76114,28,4,3,3,48,Administration,Yes,No
+48,40525,27,3,3,2,9,Human Resources,No,No
+41,94818,29,2,3,2,1,Engineering,Yes,Yes
+27,129589,7,4,2,1,43,Marketing,No,No
+37,109715,1,1,3,4,9,Finance,No,No
+40,21644,24,3,3,2,23,Logistics,Yes,Yes
+40,116154,14,3,3,3,43,Human Resources,No,Yes
+42,58469,8,1,1,4,45,Administration,Yes,No
+48,121609,18,3,2,2,2,Business Development,No,No
+60,80206,19,1,1,1,14,Procurement,No,Yes
+27,111462,7,2,1,3,38,Quality Assurance,Yes,Yes
+21,98178,24,4,2,4,40,Business Development,No,No
+52,101724,18,2,1,2,18,Engineering,No,No
+33,111393,4,2,1,4,16,Marketing,No,No
+50,142314,10,1,1,2,29,Design,Yes,Yes
+43,91312,14,3,2,1,44,Procurement,Yes,Yes
+39,90324,7,2,3,3,11,Product Management,Yes,Yes
+52,86196,18,2,4,1,6,Administration,Yes,Yes
+50,85014,22,2,4,3,3,Business Development,Yes,Yes
+49,48340,26,3,2,3,14,Marketing,No,Yes
+49,54850,7,3,4,4,2,Sales,Yes,No
+50,128711,25,1,2,2,32,Research & Development,Yes,Yes
+36,26094,26,2,2,1,31,Business Development,No,No
+60,102959,29,4,4,1,11,Cybersecurity,No,No
+39,20741,18,3,1,1,22,Human Resources,Yes,No
+38,126585,17,1,3,4,3,Finance,No,Yes
+21,137564,9,2,4,4,50,Data Science,No,No
+34,83798,28,4,4,4,31,Data Science,No,No
+22,131026,6,3,4,3,33,Engineering,Yes,No
+48,125130,27,4,4,1,24,Engineering,No,No
+50,37164,8,3,2,3,1,Customer Support,No,No
+58,45257,0,1,2,1,44,Information Technology,Yes,Yes
+24,110989,18,4,3,1,15,Design,No,No
+21,67691,4,2,3,2,37,Data Science,No,No
+28,94768,18,2,4,1,27,Finance,Yes,No
+49,29026,0,3,4,4,38,Product Management,Yes,No
+59,45908,14,2,4,4,48,Engineering,Yes,No
+23,34610,15,4,3,4,27,Design,No,Yes
+52,78185,22,1,4,2,44,Design,Yes,Yes
+30,87567,6,3,1,2,12,Quality Assurance,Yes,No
+30,51182,25,4,3,3,3,Quality Assurance,No,No
+39,131136,11,3,1,1,30,Design,No,No
+54,146642,7,1,4,1,32,Customer Support,No,No
+53,34288,4,3,2,4,23,Sales,No,No
+43,93824,9,2,1,4,2,Product Management,No,Yes
+48,99425,27,2,3,4,7,Cybersecurity,Yes,Yes
+52,15917,20,3,1,4,34,Cybersecurity,Yes,Yes
+27,90602,4,1,3,4,32,Marketing,Yes,No
+49,79575,16,1,4,4,39,Engineering,No,Yes
+28,87518,25,2,1,1,32,Human Resources,Yes,No
+21,54104,4,1,2,2,43,Marketing,No,Yes
+23,31999,21,3,1,4,43,Engineering,No,Yes
+44,76169,14,4,2,1,14,Logistics,Yes,No
+43,144744,12,3,3,4,3,Marketing,Yes,No
+28,125684,27,2,4,3,46,Finance,No,No
+57,74821,0,2,4,3,32,Operations,No,No
+23,27192,10,2,2,1,43,Business Development,Yes,No
+53,89102,22,1,3,2,36,Marketing,Yes,Yes
+48,129894,0,3,4,3,17,Cybersecurity,No,No
+28,101795,10,4,3,3,48,Procurement,No,No
+54,81677,17,3,2,2,3,Business Development,No,No
+55,149327,17,4,2,3,10,Data Science,No,No
+52,117412,20,3,1,4,47,Operations,Yes,Yes
+44,34404,29,2,4,2,40,Procurement,Yes,Yes
+34,131545,25,4,4,3,18,Procurement,No,No
+52,38989,15,3,1,2,3,Operations,No,No
+36,123106,12,1,2,4,39,Engineering,Yes,Yes
+24,39519,6,1,2,3,10,Administration,No,Yes
+57,37439,0,3,2,1,9,Operations,No,No
+41,133570,25,2,2,3,46,Procurement,No,No
+34,29995,15,4,3,3,46,Data Science,No,Yes
+51,38559,0,3,4,4,11,Procurement,No,Yes
+38,104049,16,1,4,1,33,Sales,No,Yes
+27,113000,5,4,2,1,36,Administration,Yes,No
+30,54350,1,1,2,1,26,Procurement,No,Yes
+27,40517,16,1,2,4,27,Design,Yes,Yes
+53,104132,5,3,4,4,38,Research,Yes,Yes
+43,74546,13,1,4,4,22,Sales,Yes,Yes
+41,120686,17,4,2,4,26,Procurement,No,No
+39,103151,5,2,3,4,22,Design,No,Yes
+39,18327,9,3,1,1,5,Logistics,No,No
+56,135318,23,4,1,2,35,Design,Yes,Yes
+49,130945,17,3,1,4,2,Sales,Yes,Yes
+38,61830,26,1,4,2,35,Procurement,No,Yes
+22,67446,8,1,4,3,9,Research & Development,No,Yes
+21,84341,7,4,1,3,49,Business Development,Yes,No
+25,46085,27,4,1,4,18,Administration,Yes,No
+40,70571,9,2,3,3,43,Finance,Yes,No
+31,143308,16,4,4,2,12,Cybersecurity,No,Yes
+22,20750,22,4,4,3,3,Finance,Yes,Yes
+23,128931,29,3,1,3,18,Legal,Yes,Yes
+43,93768,28,1,3,2,38,Engineering,Yes,No
+32,50903,25,4,3,3,7,Marketing,No,No
+40,106036,5,2,1,4,33,Procurement,No,No
+25,102954,13,4,1,2,6,Operations,No,No
+57,98014,21,1,4,2,18,Legal,Yes,Yes
+58,132305,21,4,1,1,45,Data Science,Yes,No
+50,47101,5,3,2,1,22,Cybersecurity,Yes,No
+29,17775,25,1,3,2,39,Product Management,Yes,No
+54,126497,6,4,1,2,9,Information Technology,No,No
+55,60619,11,3,2,1,35,Research,Yes,No
+42,72124,2,1,3,4,23,Engineering,Yes,Yes
+44,80149,13,4,2,3,12,Business Development,No,No
+37,41616,21,3,2,3,24,Customer Support,Yes,Yes
+30,76799,18,2,1,3,50,Marketing,Yes,Yes
+50,105221,22,3,3,2,40,Administration,Yes,No
+43,129879,15,2,2,4,9,Information Technology,No,No
+52,40479,6,4,4,1,13,Information Technology,Yes,No
+37,114165,7,3,3,4,40,Engineering,No,No
+37,70863,17,2,4,4,42,Human Resources,Yes,Yes
+34,97569,24,1,1,3,17,Information Technology,No,Yes
+29,31351,12,3,4,1,7,Engineering,No,Yes
+60,59825,20,4,3,4,17,Product Management,No,No
+22,26349,8,1,2,1,50,Research,Yes,No
+45,59254,9,2,2,2,24,Design,Yes,Yes
+59,53225,20,3,3,3,2,Information Technology,No,Yes
+29,27453,22,3,2,1,35,Design,No,No
+42,92694,26,4,4,2,28,Engineering,Yes,No
+24,30735,8,1,2,2,19,Business Development,No,No
+46,62893,14,3,2,2,33,Human Resources,Yes,Yes
+49,142006,19,3,4,4,21,Business Development,Yes,No
+54,60066,1,1,4,4,10,Human Resources,No,No
+43,149445,24,3,4,3,46,Legal,No,Yes
+57,25692,12,1,1,3,45,Research & Development,Yes,No
+31,60541,1,1,4,2,9,Engineering,Yes,Yes
+26,81983,18,1,4,3,38,Quality Assurance,Yes,Yes
+38,135747,25,4,1,4,6,Research & Development,No,No
+41,100103,1,1,2,3,42,Quality Assurance,Yes,No
+56,40566,2,1,4,1,35,Product Management,No,No
+58,88193,5,2,3,4,18,Product Management,No,Yes
+54,136015,2,2,4,2,19,Data Science,Yes,No
+37,145956,30,4,4,2,5,Design,No,No
+57,85744,9,1,1,3,25,Legal,No,No
+45,48455,23,2,3,4,11,Quality Assurance,No,No
+58,69219,26,2,2,2,10,Legal,No,No
+32,60991,5,3,2,2,17,Logistics,Yes,Yes
+43,88616,22,1,3,4,36,Engineering,Yes,No
+42,102438,15,2,4,4,26,Quality Assurance,No,No
+41,131841,16,4,1,2,31,Procurement,No,No
+47,73870,18,3,3,3,32,Product Management,No,No
+51,101694,2,3,3,3,21,Logistics,No,No
+26,58856,17,1,2,3,18,Business Development,No,No
+47,116407,6,1,1,1,18,Marketing,Yes,Yes
+60,46379,8,3,3,4,1,Operations,Yes,No
+54,79729,19,4,1,2,14,Legal,Yes,No
+32,69353,11,1,4,1,8,Procurement,Yes,Yes
+27,29031,4,1,2,3,2,Quality Assurance,No,Yes
+30,80982,2,3,4,1,15,Data Science,No,No
+37,51683,10,3,1,2,34,Business Development,Yes,No
+46,129091,24,1,4,2,36,Marketing,Yes,Yes
+41,132797,29,2,2,4,1,Quality Assurance,Yes,No
+48,21587,3,1,1,3,21,Human Resources,No,No
+22,77790,4,2,3,3,42,Procurement,No,Yes
+21,46480,0,3,4,1,1,Research,No,Yes
+56,38569,26,2,2,3,32,Business Development,Yes,No
+46,26151,27,4,3,1,20,Design,Yes,No
+49,59739,30,3,2,2,47,Design,No,No
+41,47954,28,1,1,2,36,Human Resources,No,Yes
+31,124373,17,1,1,2,39,Quality Assurance,No,Yes
+60,49700,11,3,4,2,30,Information Technology,Yes,No
+31,138728,12,3,2,2,7,Procurement,No,No
+56,81788,8,4,2,1,22,Human Resources,No,No
+59,86045,1,3,2,2,50,Sales,Yes,No
+60,142992,4,1,1,1,45,Design,No,No
+55,95059,12,4,4,2,10,Operations,No,No
+54,16881,15,1,2,1,8,Marketing,No,Yes
+44,147702,15,2,2,1,27,Operations,No,No
+42,35789,23,3,3,1,10,Finance,Yes,No
+25,141083,2,2,2,3,14,Sales,No,No
+53,103059,21,1,4,1,46,Data Science,Yes,No
+56,61151,3,2,3,1,11,Operations,No,No
+40,124388,10,2,3,2,6,Procurement,Yes,No
+39,18262,22,1,3,1,21,Administration,No,No
+55,81981,25,1,1,1,33,Engineering,No,No
+37,135951,13,3,3,4,19,Administration,Yes,No
+54,138099,28,2,2,3,39,Customer Support,No,No
+29,96972,2,4,1,4,24,Product Management,No,No
+46,90485,15,4,1,2,18,Information Technology,Yes,No
+22,69722,21,1,1,3,35,Information Technology,No,No
+29,104499,14,1,1,3,43,Engineering,No,No
+29,21901,27,2,1,4,37,Data Science,No,No
+60,132473,30,1,1,3,19,Legal,No,No
+37,23597,9,4,1,4,24,Cybersecurity,No,Yes
+21,144631,8,3,3,1,34,Marketing,Yes,Yes
+45,78909,10,3,4,4,22,Operations,Yes,No
+60,87391,15,2,2,3,4,Human Resources,No,No
+45,78293,9,3,2,3,10,Customer Support,No,No
+59,26874,16,1,3,2,2,Information Technology,Yes,Yes
+55,101402,18,1,3,2,8,Engineering,Yes,No
+23,29079,1,1,1,2,33,Product Management,Yes,Yes
+57,87779,23,1,4,2,38,Procurement,Yes,Yes
+50,110408,22,2,1,3,43,Information Technology,Yes,Yes
+58,135606,1,3,3,2,28,Administration,Yes,Yes
+54,135062,5,4,1,4,10,Legal,No,Yes
+32,27100,30,3,2,1,45,Human Resources,No,No
+39,72021,18,1,2,3,1,Legal,No,No
+57,143126,7,4,1,2,34,Procurement,No,Yes
+37,107446,25,2,4,3,3,Data Science,No,No
+30,44437,28,1,1,2,9,Customer Support,Yes,Yes
+32,35862,2,1,1,3,5,Legal,Yes,No
+36,26669,25,4,4,2,42,Research,Yes,Yes
+44,136219,13,2,4,1,10,Marketing,Yes,No
+39,30916,24,4,4,2,12,Administration,Yes,No
+28,25878,15,2,2,4,18,Sales,Yes,No
+51,17985,0,1,1,3,21,Product Management,No,No
+41,56235,20,3,3,3,21,Information Technology,No,No
+37,33931,2,1,4,4,1,Customer Support,Yes,No
+43,107876,21,3,4,4,3,Cybersecurity,No,No
+57,15336,25,3,1,1,5,Business Development,Yes,No
+36,57933,17,2,3,3,25,Engineering,No,No
+26,60536,8,4,1,1,49,Design,Yes,No
+28,84504,5,2,1,3,8,Cybersecurity,Yes,No
+45,114214,22,1,4,3,17,Procurement,No,No
+38,128936,20,4,4,1,9,Business Development,Yes,Yes
+45,31279,24,3,2,3,32,Information Technology,No,No
+32,118751,0,3,3,3,6,Product Management,No,No
+35,119433,20,1,3,1,49,Procurement,Yes,Yes
+46,86386,26,4,4,2,40,Design,Yes,Yes
+46,101124,9,1,4,1,21,Product Management,Yes,No
+52,120750,26,1,4,3,7,Legal,No,No
+30,92485,5,2,3,4,7,Information Technology,No,Yes
+36,89055,22,1,2,2,47,Research & Development,Yes,No
+27,106911,11,4,3,4,39,Research & Development,Yes,No
+37,113618,3,1,4,2,27,Research,Yes,Yes
+43,128892,27,4,4,4,8,Quality Assurance,Yes,No
+46,86128,12,3,2,2,9,Data Science,Yes,Yes
+41,67495,16,1,1,1,28,Business Development,Yes,Yes
+42,97806,30,4,1,2,15,Operations,Yes,Yes
+27,108185,26,3,3,2,2,Design,No,No
+34,64649,7,4,1,2,7,Engineering,No,No
+35,110402,25,3,1,3,47,Research,Yes,Yes
+27,45676,19,2,3,4,18,Procurement,Yes,No
+29,79093,2,1,4,1,22,Information Technology,No,Yes
+28,94414,11,1,1,4,50,Research & Development,Yes,No
+43,108095,6,3,4,4,10,Operations,No,No
+49,87307,11,2,3,1,50,Product Management,No,No
+38,110432,1,4,4,3,33,Sales,Yes,No
+51,46923,23,2,4,2,7,Sales,No,Yes
+50,132449,13,4,3,3,3,Data Science,No,Yes
+59,62574,21,4,4,3,14,Design,Yes,No
+55,136757,22,1,1,2,44,Product Management,Yes,No
+38,68664,29,3,1,4,46,Information Technology,No,Yes
+59,82384,4,1,1,2,36,Operations,Yes,Yes
+37,46027,8,1,1,1,13,Legal,No,No
+34,49485,20,1,4,2,16,Human Resources,No,No
+51,50554,10,4,1,4,16,Data Science,No,No
+44,61922,4,1,4,3,5,Information Technology,No,No
+55,28409,2,4,2,3,25,Research & Development,No,No
+54,51639,26,3,4,2,38,Quality Assurance,No,No
+23,34692,16,4,1,1,38,Procurement,Yes,Yes
+57,104037,1,4,2,4,50,Cybersecurity,Yes,No
+60,33074,23,2,3,3,38,Administration,Yes,No
+46,44963,30,1,4,2,39,Research & Development,Yes,No
+43,67265,0,1,1,1,48,Finance,No,Yes
+59,31061,6,1,1,1,41,Human Resources,No,Yes
+35,128502,29,1,1,3,26,Design,No,No
+24,37800,13,2,3,3,13,Logistics,No,No
+49,131192,4,2,2,4,44,Procurement,No,No
+42,122228,18,2,2,1,26,Logistics,Yes,Yes
+45,43054,27,2,1,4,1,Cybersecurity,Yes,No
+33,28233,27,1,4,1,8,Sales,Yes,Yes
+38,80727,30,4,1,1,4,Data Science,No,No
+53,105610,10,3,1,2,21,Product Management,No,Yes
+36,85453,22,2,4,3,22,Product Management,Yes,No
+22,119135,24,4,1,1,37,Cybersecurity,No,No
+55,123464,1,2,3,4,49,Customer Support,No,Yes
+54,28682,7,1,1,3,3,Business Development,Yes,No
+50,73160,8,1,3,4,19,Customer Support,No,No
+33,38666,26,4,1,3,1,Administration,Yes,Yes
+33,73817,2,4,2,3,29,Research & Development,Yes,Yes
+38,106198,1,4,4,1,23,Legal,Yes,No
+52,56830,6,1,2,2,33,Operations,Yes,Yes
+52,25234,4,1,1,1,41,Finance,No,No
+55,72616,20,3,1,3,23,Operations,No,No
+59,24221,25,4,3,1,5,Cybersecurity,No,Yes
+49,16051,4,3,1,1,7,Logistics,Yes,No
+49,125529,19,2,1,3,6,Customer Support,No,Yes
+36,91918,12,3,1,3,49,Business Development,Yes,No
+30,93116,20,2,2,1,22,Research,No,No
+50,137226,28,2,3,1,49,Procurement,No,No
+45,59757,19,3,2,1,13,Engineering,Yes,No
+59,136008,30,4,3,4,12,Research,No,No
+40,146379,28,2,2,1,4,Administration,Yes,No
+25,71889,5,4,1,4,8,Product Management,Yes,Yes
+21,50944,19,1,2,2,37,Research,No,No
+50,114555,17,2,2,4,31,Quality Assurance,No,No
+23,53134,24,1,3,1,37,Sales,No,Yes
+34,40954,1,3,3,2,45,Engineering,No,No
+50,104959,24,4,2,4,26,Information Technology,Yes,Yes
+24,19992,25,3,3,4,43,Procurement,Yes,Yes
+38,16961,5,2,3,3,8,Design,No,No
+57,27497,8,1,3,2,40,Cybersecurity,No,Yes
+45,28255,24,2,4,3,33,Product Management,No,No
+21,63847,2,3,3,2,45,Logistics,Yes,Yes
+35,35389,0,4,4,4,29,Legal,No,No
+29,138802,0,4,4,3,5,Research & Development,Yes,No
+35,76576,18,2,3,1,28,Data Science,No,Yes
+44,58919,4,2,2,4,40,Human Resources,No,No
+24,18358,12,1,3,2,17,Marketing,Yes,No
+32,103535,18,3,1,2,23,Quality Assurance,Yes,No
+57,120982,11,2,2,3,45,Marketing,No,Yes
+57,20698,15,1,4,3,9,Research & Development,Yes,Yes
+26,81809,24,2,4,2,2,Research,Yes,Yes
+59,108079,24,4,2,4,32,Marketing,No,No
+44,70805,18,1,2,3,49,Customer Support,Yes,No
+31,90033,2,1,3,1,31,Data Science,Yes,Yes
+33,113239,11,2,4,2,7,Quality Assurance,No,No
+54,145407,29,3,1,1,30,Cybersecurity,No,No
+45,59041,4,4,3,2,3,Research,Yes,No
+27,46954,1,3,2,1,9,Cybersecurity,No,No
+24,23002,21,1,4,4,10,Procurement,Yes,Yes
+28,84783,6,3,2,2,46,Research & Development,Yes,No
+40,122524,12,1,2,4,50,Engineering,Yes,Yes
+49,139857,24,3,2,3,47,Administration,No,No
+30,34738,14,2,3,2,26,Research,Yes,No
+54,25703,21,3,1,4,1,Logistics,Yes,No
+46,128776,2,1,1,1,30,Sales,Yes,Yes
+23,59724,27,4,4,4,38,Engineering,No,No
+26,47299,20,4,2,2,15,Data Science,No,No
+25,30641,19,4,1,4,25,Engineering,No,Yes
+25,94534,30,1,2,1,6,Cybersecurity,Yes,Yes
+43,21305,4,3,4,1,18,Data Science,Yes,No
+29,33782,23,4,2,1,1,Logistics,No,No
+55,93257,7,4,1,3,3,Information Technology,Yes,No
+40,92963,21,4,2,2,17,Data Science,Yes,Yes
+55,136987,0,2,1,1,48,Business Development,Yes,Yes
+38,139591,7,1,4,3,8,Procurement,Yes,No
+37,82766,23,1,2,1,49,Customer Support,No,No
+44,21511,17,1,1,4,40,Research & Development,No,No
+23,129816,19,1,4,2,17,Human Resources,No,No
+52,19765,27,1,2,4,25,Finance,Yes,Yes
+55,38929,15,2,4,3,41,Logistics,Yes,Yes
+58,126576,17,3,1,4,12,Legal,No,Yes
+33,86088,19,2,2,4,29,Legal,No,No
+45,92525,11,4,2,1,25,Procurement,No,No
+29,28780,12,2,2,4,36,Operations,Yes,No
+24,21589,12,1,4,1,25,Business Development,No,No
+34,108664,9,2,4,1,29,Design,Yes,No
+57,119188,6,1,1,2,11,Cybersecurity,No,No
+54,108326,24,2,3,3,4,Engineering,Yes,No
+31,55953,13,1,2,3,14,Administration,Yes,No
+23,80785,29,4,2,3,46,Data Science,No,Yes
+48,34309,23,1,1,1,38,Procurement,Yes,Yes
+49,69195,15,2,2,3,17,Human Resources,Yes,No
+29,40901,14,4,4,1,2,Finance,No,No
+23,40464,11,2,4,2,8,Business Development,No,No
+45,31260,8,4,2,3,36,Finance,No,No
+54,139997,7,3,2,1,10,Information Technology,Yes,No
+32,50440,17,3,4,3,7,Marketing,Yes,No
+29,110082,22,3,2,3,36,Product Management,No,No
+35,120583,17,2,4,2,16,Sales,No,No
+60,71683,12,2,3,4,14,Procurement,Yes,Yes
+45,139206,27,4,3,3,16,Business Development,No,No
+25,148059,26,4,2,2,25,Research,No,Yes
+31,93484,17,4,2,3,41,Finance,Yes,Yes
+54,83309,14,4,2,3,4,Operations,Yes,No
+44,60927,3,1,4,3,29,Marketing,No,No
+35,57946,16,3,3,3,6,Design,Yes,No
+58,141503,30,1,3,4,1,Procurement,Yes,No
+28,68592,4,1,1,4,39,Customer Support,No,Yes
+25,48776,21,1,1,3,1,Information Technology,No,Yes
+46,149855,15,1,2,3,40,Finance,No,No
+38,70798,8,3,4,2,3,Data Science,Yes,No
+26,85204,9,1,2,2,1,Administration,No,Yes
+57,101207,23,4,3,1,1,Cybersecurity,Yes,Yes
+33,115356,17,2,2,4,39,Operations,No,No
+48,75652,16,4,2,3,21,Information Technology,Yes,No
+25,144572,17,2,3,4,45,Business Development,Yes,No
+33,35922,6,4,3,2,30,Operations,No,No
+37,91996,3,4,3,4,32,Design,Yes,Yes
+60,45266,25,2,3,4,33,Operations,No,No
+52,17866,4,3,1,3,48,Human Resources,No,Yes
+49,127669,27,1,4,3,22,Customer Support,Yes,No
+23,20898,22,4,4,2,30,Procurement,Yes,No
+60,33395,15,3,3,3,46,Research,Yes,No
+54,19006,2,1,4,2,4,Cybersecurity,No,No
+60,25956,25,3,4,2,23,Information Technology,No,No
+47,110676,17,3,4,1,44,Information Technology,No,No
+33,136724,28,1,4,1,25,Research,No,No
+53,77901,22,4,3,1,12,Product Management,No,No
+26,122227,20,3,2,4,17,Human Resources,No,No
+44,132192,13,4,2,1,15,Legal,Yes,No
+39,46417,14,4,2,3,10,Customer Support,No,Yes
+36,103020,16,4,1,3,35,Product Management,No,No
+60,98639,0,1,4,1,29,Research,No,No
+48,109881,24,2,3,4,12,Cybersecurity,No,No
+53,147659,20,4,3,2,1,Information Technology,Yes,No
+33,136688,16,2,1,4,1,Engineering,Yes,Yes
+45,130584,22,2,3,4,10,Legal,Yes,No
+56,101567,24,3,2,2,18,Design,No,No
+47,90886,10,4,1,2,47,Research & Development,No,No
+58,44432,16,4,3,2,2,Design,No,No
+27,87373,25,4,1,3,49,Sales,Yes,No
+25,35884,13,2,1,2,8,Marketing,No,No
+51,20454,28,1,3,2,22,Legal,No,No
+43,89960,19,2,2,4,22,Business Development,Yes,Yes
+30,117421,29,4,3,4,26,Business Development,Yes,Yes
+52,58618,18,4,4,1,26,Logistics,No,Yes
+50,62111,20,4,4,4,9,Customer Support,Yes,No
+59,135592,6,2,3,2,21,Information Technology,No,No
+51,74993,23,4,2,3,31,Quality Assurance,No,No
+38,143652,12,3,4,4,43,Cybersecurity,Yes,No
+56,93672,17,4,4,4,6,Legal,No,No
+22,81125,22,1,3,2,14,Operations,Yes,Yes
+34,132509,29,3,3,4,33,Research,Yes,Yes
+33,76602,13,4,3,4,7,Cybersecurity,No,No
+49,57222,0,3,1,2,24,Procurement,Yes,No
+32,64223,6,4,1,4,9,Cybersecurity,No,Yes
+59,80333,7,1,1,3,11,Operations,No,No
+22,137650,17,4,3,1,23,Product Management,Yes,No
+52,64420,8,3,2,4,48,Finance,Yes,No
+33,90504,0,1,4,3,2,Procurement,Yes,Yes
+47,17462,28,2,1,4,15,Administration,No,Yes
+37,24460,21,1,2,1,35,Information Technology,No,Yes
+60,114319,16,1,3,2,36,Operations,No,No
+51,144593,18,1,1,1,28,Quality Assurance,No,Yes
+54,137672,26,3,3,4,39,Data Science,No,No
+44,87920,5,1,2,1,44,Product Management,No,No
+55,37553,2,4,1,1,4,Administration,No,Yes
+26,59036,23,1,1,2,10,Quality Assurance,Yes,No
+39,85021,4,1,1,4,6,Legal,No,No
+50,122205,1,4,1,1,30,Procurement,No,No
+27,103209,19,4,2,1,46,Marketing,Yes,Yes
+30,90139,24,2,1,2,35,Legal,No,Yes
+52,20368,3,1,4,3,49,Product Management,No,Yes
+54,73829,9,3,4,4,43,Customer Support,Yes,Yes
+48,144036,9,1,3,3,10,Cybersecurity,No,No
+35,29719,23,1,1,3,32,Sales,Yes,Yes
+50,44227,20,4,4,2,42,Information Technology,No,No
+57,124430,10,2,4,2,42,Legal,No,Yes
+49,27306,26,1,4,4,3,Information Technology,Yes,Yes
+42,68822,15,3,2,3,26,Procurement,Yes,No
+24,39042,25,1,1,1,15,Quality Assurance,No,Yes
+40,104424,28,3,2,3,17,Operations,No,No
+52,33019,28,4,2,2,27,Logistics,Yes,No
+56,90426,29,2,4,1,18,Business Development,No,No
+24,55863,30,1,4,1,19,Cybersecurity,Yes,No
+47,126023,16,2,3,2,12,Procurement,Yes,No
+37,61999,15,1,1,1,24,Business Development,Yes,Yes
+32,77780,6,3,1,3,5,Logistics,No,No
+42,37908,15,2,4,2,24,Business Development,No,No
+37,141278,2,1,4,4,27,Engineering,No,No
+30,128002,25,4,1,2,48,Logistics,Yes,Yes
+21,115706,15,3,3,4,30,Procurement,No,No
+42,137019,7,2,4,4,15,Product Management,Yes,Yes
+46,124708,29,1,3,2,47,Engineering,Yes,No
+38,24343,11,2,2,2,38,Administration,No,No
+34,91173,2,1,4,4,44,Finance,No,No
+49,115260,16,3,2,4,34,Human Resources,Yes,No
+32,84443,20,4,4,1,27,Cybersecurity,No,No
+56,72530,17,3,2,2,20,Customer Support,Yes,No
+55,111143,10,2,4,2,41,Information Technology,No,No
+32,129527,3,2,3,1,32,Procurement,Yes,Yes
+27,126362,15,1,3,2,4,Quality Assurance,No,No
+49,43807,16,3,3,1,5,Data Science,Yes,No
+31,74550,8,1,2,1,8,Design,No,No
+53,18558,5,3,3,2,22,Research & Development,Yes,No
+26,65113,23,2,2,3,42,Marketing,Yes,No
+35,67999,26,1,4,4,7,Data Science,Yes,No
+52,73219,19,1,2,2,22,Legal,Yes,Yes
+31,68218,24,3,4,3,46,Research,Yes,Yes
+43,34229,1,4,1,1,30,Sales,Yes,No
+46,90209,8,3,1,3,37,Finance,No,No
+54,42877,27,4,1,2,16,Operations,Yes,No
+54,112137,20,3,2,2,15,Research,Yes,No
+49,53084,28,2,1,3,5,Quality Assurance,No,No
+24,96780,5,1,1,2,3,Logistics,No,No
+37,52034,2,3,1,4,23,Customer Support,Yes,Yes
+55,70468,19,2,4,3,10,Sales,No,No
+33,25589,5,3,3,1,5,Operations,No,No
+59,72221,6,1,2,3,23,Information Technology,Yes,Yes
+35,16657,0,3,1,3,15,Logistics,Yes,No
+49,113300,22,4,4,3,18,Cybersecurity,No,No
+49,132229,0,1,3,3,25,Finance,No,No
+31,54531,4,4,3,1,8,Data Science,No,No
+52,67227,5,2,3,1,31,Finance,No,No
+22,18164,12,2,4,1,21,Business Development,No,No
+34,108078,1,3,1,3,2,Quality Assurance,No,No
+40,56247,14,4,3,4,22,Procurement,Yes,No
+42,65599,14,4,4,4,8,Human Resources,No,No
+31,83207,12,1,4,1,23,Administration,Yes,No
+47,87055,25,4,2,4,32,Marketing,Yes,Yes
+23,117266,24,4,4,4,8,Human Resources,No,No
+37,93270,13,1,3,4,4,Sales,Yes,Yes
+48,126426,25,1,3,4,30,Product Management,No,Yes
+49,149794,21,4,4,4,19,Logistics,Yes,No
+41,85442,6,3,3,2,23,Sales,No,No
+36,110632,13,1,4,1,18,Data Science,Yes,No
+57,36438,30,1,3,3,29,Finance,No,No
+40,73819,25,4,2,4,23,Data Science,Yes,No
+26,58856,30,4,1,2,33,Design,No,No
+39,56938,23,1,2,3,47,Sales,Yes,Yes
+25,74807,26,4,2,2,18,Logistics,Yes,No
+23,64877,30,1,1,4,44,Data Science,Yes,Yes
+21,58461,28,3,3,4,33,Research,No,No
+58,108474,9,3,1,4,7,Human Resources,No,No
+35,98136,16,1,4,4,28,Finance,No,No
+54,35435,13,1,1,3,1,Business Development,No,Yes
+55,99726,7,2,2,3,39,Operations,No,No
+45,69786,3,2,1,2,34,Finance,Yes,No
+44,28704,25,4,3,1,39,Research & Development,No,No
+32,71635,15,4,2,4,19,Quality Assurance,No,No
+38,148195,23,1,4,2,31,Finance,Yes,No
+35,105710,12,1,3,2,13,Customer Support,No,No
+36,77993,30,2,2,2,24,Quality Assurance,No,No
+47,127752,21,2,4,4,5,Cybersecurity,No,No
+28,147886,26,1,3,4,23,Marketing,No,No
+45,93537,24,3,4,2,19,Customer Support,No,No
+37,65258,26,3,1,4,1,Sales,No,No
+49,100166,19,4,1,2,33,Procurement,Yes,No
+28,128710,17,1,4,3,50,Operations,No,No
+35,50699,13,1,1,4,33,Finance,No,No
+47,61335,17,4,4,3,32,Finance,No,No
+27,61806,4,2,3,1,28,Procurement,Yes,Yes
+23,92853,25,2,2,4,37,Engineering,Yes,No
+49,50739,8,3,4,1,41,Cybersecurity,Yes,No
+44,49785,27,1,2,2,12,Cybersecurity,Yes,Yes
+23,100016,2,2,2,4,9,Cybersecurity,No,No
+40,147681,7,3,4,4,50,Information Technology,Yes,Yes
+35,81253,19,3,1,4,11,Logistics,No,No
+45,106128,21,3,3,1,33,Research & Development,No,Yes
+50,142581,9,2,2,1,19,Human Resources,No,No
+34,125966,21,2,3,2,42,Customer Support,Yes,Yes
+27,114352,18,1,2,3,34,Research & Development,No,No
+37,92154,29,1,4,3,7,Information Technology,Yes,No
+40,123297,20,3,1,1,31,Information Technology,No,No
+56,53346,27,3,3,4,2,Customer Support,Yes,No
+29,127138,2,2,2,3,19,Procurement,Yes,No
+58,65772,10,2,4,3,38,Design,No,No
+42,55149,30,1,4,1,32,Business Development,No,No
+22,101700,10,1,2,2,10,Data Science,No,No
+44,111758,30,4,2,1,41,Operations,Yes,Yes
+28,143447,16,1,2,1,8,Design,Yes,No
+31,20695,15,2,1,4,26,Business Development,Yes,Yes
+33,54169,6,3,2,1,30,Marketing,No,No
+37,62947,3,4,2,4,11,Operations,Yes,No
+28,60865,29,1,1,2,41,Logistics,No,No
+41,119501,22,1,4,4,20,Research,Yes,Yes
+38,75410,18,2,2,2,20,Sales,Yes,No
+50,118754,11,4,3,2,9,Engineering,Yes,No
+38,105895,14,1,4,2,8,Logistics,No,No
+51,65705,30,3,3,1,15,Research & Development,No,No
+58,130700,10,2,2,4,34,Business Development,No,No
+52,88914,4,4,1,3,24,Human Resources,Yes,No
+31,16881,4,1,1,1,33,Customer Support,Yes,Yes
+45,62365,14,1,1,2,41,Finance,Yes,No
+53,94211,28,4,2,3,41,Research,Yes,No
+58,56198,17,2,2,1,45,Finance,No,Yes
+28,115649,10,4,3,3,40,Business Development,Yes,No
+31,54553,25,4,1,2,27,Legal,Yes,Yes
+42,137778,11,2,2,3,21,Operations,No,Yes
+44,132018,1,1,4,3,5,Product Management,No,Yes
+37,47766,19,3,2,2,35,Research,No,No
+32,47006,14,2,2,3,21,Human Resources,Yes,No
+52,46422,19,3,4,1,4,Product Management,No,No
+35,131590,3,1,1,3,49,Business Development,Yes,No
+36,27205,21,4,4,4,48,Business Development,No,No
+42,131477,17,3,1,1,16,Research,Yes,Yes
+48,43202,5,1,4,3,31,Information Technology,Yes,Yes
+40,76692,22,1,3,4,26,Design,Yes,Yes
+53,35855,26,4,1,4,35,Cybersecurity,Yes,Yes
+30,40095,25,4,2,4,6,Quality Assurance,Yes,Yes
+60,64241,18,1,3,3,33,Research & Development,Yes,Yes
+52,118119,10,1,1,2,21,Business Development,No,No
+53,67003,27,3,1,4,16,Product Management,Yes,No
+22,109837,23,1,1,2,47,Research & Development,Yes,Yes
+53,109283,1,1,4,1,39,Sales,Yes,No
+53,138805,26,3,1,2,34,Operations,Yes,Yes
+33,108846,7,2,2,2,42,Product Management,No,No
+50,37927,28,3,1,2,15,Finance,Yes,No
+53,135589,10,3,2,2,6,Operations,Yes,Yes
+33,130657,4,4,2,2,2,Product Management,No,No
+46,81630,17,3,2,1,24,Finance,Yes,No
+42,119428,22,1,3,1,49,Data Science,No,No
+59,137035,29,1,2,2,28,Information Technology,Yes,Yes
+22,141244,17,1,4,2,1,Quality Assurance,Yes,No
+58,84518,13,2,1,4,1,Cybersecurity,No,No
+59,96326,21,1,4,1,28,Marketing,No,Yes
+46,135243,9,2,3,3,36,Sales,No,No
+35,27748,2,1,1,1,20,Cybersecurity,Yes,Yes
+54,149164,8,3,2,3,48,Procurement,No,No
+60,68311,2,4,1,4,8,Finance,No,Yes
+31,37692,10,1,3,2,1,Engineering,Yes,No
+23,139954,30,2,3,4,26,Quality Assurance,Yes,Yes
+26,145035,11,2,4,2,43,Marketing,Yes,No
+29,94507,11,4,1,1,49,Customer Support,No,Yes
+26,95152,2,1,1,2,25,Human Resources,Yes,Yes
+29,19926,20,3,1,3,10,Engineering,No,No
+59,18969,6,1,4,3,12,Research & Development,No,Yes
+51,50733,13,1,3,4,41,Sales,No,Yes
+52,84855,23,4,2,1,7,Product Management,No,No
+32,56743,27,1,1,3,12,Operations,Yes,Yes
+28,145193,10,3,4,4,47,Legal,Yes,No
+28,122445,6,2,4,1,40,Administration,No,Yes
+48,35323,24,4,2,1,17,Administration,No,No
+40,31428,20,3,3,4,5,Logistics,Yes,No
+27,49578,9,2,1,3,14,Legal,Yes,Yes
+31,101486,10,4,1,3,34,Cybersecurity,No,No
+40,79140,14,4,4,4,48,Marketing,No,No
+36,122325,18,2,3,3,17,Administration,No,No
+24,98829,15,2,1,4,35,Data Science,No,Yes
+26,21364,21,3,2,3,1,Operations,No,No
+42,143867,20,1,3,3,50,Sales,Yes,No
+46,146763,27,1,3,4,50,Logistics,No,No
+23,110598,19,1,4,4,36,Legal,Yes,No
+34,72062,11,1,4,3,15,Human Resources,No,No
+31,103302,17,1,1,4,19,Information Technology,Yes,Yes
+38,78928,22,3,4,3,42,Operations,No,No
+32,56347,12,4,3,2,5,Customer Support,Yes,No
+43,18121,4,3,1,1,19,Marketing,Yes,Yes
+32,98793,3,3,1,1,43,Research & Development,No,No
+33,43164,27,3,3,3,39,Quality Assurance,No,No
+45,40491,13,4,1,1,5,Cybersecurity,Yes,No
+39,74222,7,3,2,3,12,Cybersecurity,Yes,No
+56,18748,8,3,2,4,19,Engineering,Yes,Yes
+28,41553,24,4,1,2,47,Marketing,No,Yes
+49,131547,18,3,4,1,12,Data Science,Yes,No
+52,75380,2,1,2,1,36,Customer Support,No,No
+38,59331,4,2,1,4,12,Research & Development,No,No
+26,135617,20,3,2,2,18,Product Management,No,No
+38,54560,25,2,4,2,49,Logistics,No,No
+39,68865,17,3,3,2,48,Logistics,No,No
+42,90910,0,3,1,4,43,Product Management,No,Yes
+57,92986,7,1,1,1,34,Quality Assurance,Yes,Yes
+52,25068,18,4,1,1,48,Business Development,Yes,No
+23,69460,16,2,1,2,33,Information Technology,No,No
+48,115766,16,4,1,4,49,Logistics,Yes,No
+30,61418,10,1,1,4,18,Engineering,Yes,Yes
+55,41206,30,1,4,4,29,Design,No,No
+49,143180,1,2,3,2,45,Procurement,Yes,No
+35,15287,5,4,4,4,5,Quality Assurance,No,No
+53,37337,21,1,4,2,25,Administration,No,No
+27,147233,13,3,3,2,24,Marketing,No,No
+32,115667,2,3,4,2,29,Logistics,No,No
+50,105071,11,3,2,3,38,Engineering,Yes,No
+41,113064,3,4,4,2,33,Business Development,Yes,No
+51,121511,11,3,1,4,10,Product Management,No,No
+44,18178,12,3,2,3,37,Customer Support,Yes,Yes
+40,46831,1,1,2,1,33,Administration,No,No
+57,148248,1,1,3,1,23,Business Development,No,No
+24,118306,14,3,4,4,11,Human Resources,Yes,Yes
+48,127025,22,3,4,4,24,Data Science,Yes,Yes
+40,105417,28,1,2,4,24,Customer Support,No,No
+44,26984,16,2,4,4,7,Research,Yes,No
+52,104312,6,4,4,3,50,Logistics,No,No
+56,98291,29,4,3,4,21,Research & Development,No,No
+54,22135,27,1,2,2,20,Customer Support,Yes,Yes
+56,15320,13,4,1,1,10,Human Resources,No,No
+22,103774,11,1,2,4,25,Research & Development,Yes,Yes
+35,113071,29,1,3,2,47,Research,No,Yes
+54,124863,16,1,3,4,36,Cybersecurity,No,Yes
+56,56777,13,1,3,2,48,Operations,No,Yes
+26,61250,5,2,4,3,47,Design,No,Yes
+59,88034,18,3,2,1,15,Cybersecurity,No,No
+32,119940,23,3,4,1,44,Marketing,Yes,Yes
+23,55130,5,2,4,3,40,Information Technology,No,No
+38,148609,26,4,2,2,40,Cybersecurity,Yes,No
+60,30216,17,4,3,4,50,Customer Support,Yes,No
+41,99149,23,3,1,2,6,Administration,Yes,No
+35,18009,4,4,1,1,37,Quality Assurance,No,No
+53,104904,23,3,2,3,2,Business Development,Yes,No
+55,30029,23,3,2,3,12,Sales,Yes,No
+46,117171,5,2,3,2,4,Legal,Yes,No
+28,129456,1,4,2,2,23,Research,No,No
+56,77559,7,2,2,3,13,Research,No,No
+50,79892,14,3,3,1,17,Product Management,No,No
+43,85409,14,3,3,4,31,Data Science,No,No
+34,48065,10,3,4,4,16,Legal,Yes,No
+34,135544,21,1,2,2,41,Product Management,No,No
+22,122340,21,1,1,3,26,Customer Support,Yes,Yes
+57,48783,23,1,2,3,28,Cybersecurity,No,Yes
+25,49152,0,2,1,3,1,Human Resources,Yes,No
+58,73741,17,3,1,1,47,Product Management,No,Yes
+34,122049,11,4,1,2,12,Legal,No,No
+59,44092,11,2,4,2,37,Procurement,No,No
+45,101483,24,2,3,2,50,Sales,No,No
+40,136585,10,2,3,1,20,Research & Development,Yes,No
+22,74754,27,4,4,2,2,Customer Support,No,No
+59,102592,7,3,3,4,36,Operations,No,No
+26,109543,27,1,4,2,15,Customer Support,No,No
+37,58169,6,3,2,2,38,Design,Yes,No
+45,69745,22,3,4,2,22,Operations,No,No
+48,125168,20,2,3,1,44,Marketing,No,No
+22,128985,1,2,3,4,50,Data Science,Yes,No
+55,20543,10,2,2,4,32,Product Management,Yes,Yes
+57,36067,21,1,4,3,20,Legal,Yes,Yes
+25,66033,9,1,2,3,36,Product Management,No,No
+21,60256,2,1,1,4,33,Information Technology,Yes,Yes
+60,101803,19,3,4,2,15,Logistics,No,No
+32,133843,28,2,2,2,50,Quality Assurance,Yes,Yes
+56,43992,9,4,2,2,46,Business Development,No,No
+43,63803,27,3,3,1,3,Quality Assurance,Yes,No
+51,124975,26,1,4,2,29,Design,Yes,Yes
+31,41270,17,4,1,1,47,Sales,Yes,Yes
+30,22452,13,4,1,4,27,Procurement,No,No
+23,56486,17,2,4,2,5,Cybersecurity,Yes,Yes
+34,29859,27,4,4,2,31,Administration,No,Yes
+36,47083,23,1,2,3,22,Customer Support,Yes,No
+30,82708,7,2,3,4,35,Finance,Yes,Yes
+49,126462,9,4,3,2,7,Information Technology,Yes,Yes
+30,108076,21,2,3,1,6,Product Management,No,No
+32,34053,12,4,4,4,26,Cybersecurity,No,Yes
+50,104745,20,3,3,3,1,Finance,No,No
+21,84517,7,3,2,4,19,Cybersecurity,Yes,Yes
+25,94267,3,1,4,1,7,Data Science,No,No
+40,95077,26,3,4,3,36,Operations,No,No
+28,91623,3,3,3,1,12,Legal,Yes,Yes
+32,146004,4,3,1,4,20,Customer Support,Yes,No
+21,68687,0,4,1,3,23,Product Management,No,No
+40,83312,16,4,2,1,25,Finance,No,No
+48,122615,1,2,3,4,30,Quality Assurance,Yes,No
+57,145976,29,4,3,1,29,Cybersecurity,No,No
+57,42564,7,3,4,2,31,Business Development,Yes,Yes
+32,43835,6,4,4,4,18,Research,Yes,Yes
+57,22697,30,1,3,3,41,Legal,No,Yes
+48,95165,14,2,4,3,19,Data Science,No,No
+35,72823,25,2,3,2,4,Legal,Yes,No
+26,24615,24,4,2,1,1,Operations,No,No
+40,145499,4,3,4,1,41,Research & Development,Yes,No
+34,91436,1,2,3,3,15,Human Resources,No,No
+22,135562,6,1,4,1,8,Legal,Yes,No
+29,86117,30,1,2,4,15,Research,No,No
+57,49782,7,2,4,4,15,Product Management,No,Yes
+40,93533,27,3,3,3,50,Marketing,Yes,Yes
+46,87684,6,3,4,4,39,Administration,No,No
+49,94558,29,4,4,3,22,Administration,Yes,No
+21,96422,6,4,3,1,18,Cybersecurity,No,No
+55,21638,27,2,1,1,16,Research & Development,No,Yes
+26,52419,30,4,4,1,2,Cybersecurity,No,No
+57,48377,13,4,4,2,36,Engineering,No,No
+25,121244,20,4,2,3,20,Marketing,Yes,No
+53,38382,17,1,1,4,16,Procurement,Yes,Yes
+34,82789,5,4,2,1,3,Sales,No,No
+32,125634,3,2,3,2,30,Logistics,Yes,Yes
+40,146936,9,3,3,4,2,Administration,Yes,No
+44,114572,17,4,2,4,35,Engineering,No,No
+54,138664,11,3,4,4,26,Research & Development,Yes,No
+45,125674,15,4,1,1,5,Data Science,Yes,Yes
+49,118533,24,2,2,4,2,Administration,No,No
+59,96845,6,1,2,3,20,Logistics,No,No
+51,84590,5,2,3,2,34,Cybersecurity,No,No
+43,142775,27,1,4,4,34,Product Management,No,No
+58,81471,4,4,1,4,20,Data Science,Yes,Yes
+40,58298,2,4,2,3,50,Sales,No,No
+43,63924,11,1,1,4,25,Research,Yes,Yes
+36,24726,30,2,1,1,20,Engineering,Yes,No
+28,55542,14,2,2,1,25,Research & Development,No,No
+41,49753,9,1,1,1,14,Information Technology,Yes,No
+21,94788,25,4,3,4,47,Business Development,Yes,No
+28,36316,19,1,4,2,44,Administration,Yes,Yes
+49,99698,18,4,4,2,43,Research & Development,No,No
+52,30960,15,1,4,4,43,Business Development,Yes,Yes
+58,45791,27,4,3,2,39,Administration,No,No
+25,40216,10,1,3,2,12,Quality Assurance,No,No
+42,79427,7,3,3,4,48,Quality Assurance,Yes,Yes
+54,127470,2,4,4,1,5,Information Technology,Yes,No
+21,88290,22,2,1,4,2,Business Development,No,Yes
+46,62014,6,1,3,1,16,Engineering,No,Yes
+30,65519,22,2,2,1,30,Sales,No,No
+50,19042,28,1,3,2,47,Information Technology,No,No
+38,64052,6,2,2,2,43,Procurement,No,No
+37,29389,13,2,4,1,38,Quality Assurance,Yes,Yes
+46,110961,1,1,2,1,45,Procurement,No,No
+28,83111,9,1,3,2,42,Information Technology,Yes,Yes
+60,120058,18,2,3,3,24,Legal,No,No
+32,108715,25,2,1,1,30,Human Resources,Yes,Yes
+47,65733,8,2,4,1,37,Data Science,No,No
+28,49754,15,4,2,1,39,Finance,Yes,Yes
+45,100886,18,4,4,2,11,Customer Support,Yes,No
+24,104524,17,3,3,4,14,Quality Assurance,No,No
+53,96006,8,4,1,1,23,Engineering,Yes,No
+21,39704,15,4,3,1,16,Information Technology,No,Yes
+39,109913,12,1,3,1,50,Information Technology,No,No
+51,109108,9,3,3,4,21,Logistics,Yes,No
+36,22493,24,3,2,4,4,Quality Assurance,Yes,Yes
+34,84639,19,4,3,1,33,Customer Support,No,No
+25,69383,13,1,4,1,47,Legal,No,No
+46,149066,11,1,4,3,14,Administration,No,No
+48,62234,24,3,1,4,19,Quality Assurance,Yes,No
+22,143674,18,1,4,3,5,Operations,Yes,Yes
+26,20594,6,2,3,1,36,Marketing,No,No
+29,22371,22,4,3,1,31,Finance,Yes,No
+53,62315,14,2,4,1,45,Research & Development,Yes,No
+45,142251,15,3,1,1,18,Research & Development,Yes,No
+33,94526,26,3,1,2,44,Research,No,Yes
+29,101005,7,1,4,2,31,Design,No,No
+33,120573,9,1,2,2,30,Business Development,Yes,No
+51,72514,30,3,2,3,21,Legal,Yes,Yes
+31,90986,3,3,2,4,47,Human Resources,No,No
+24,100959,18,2,2,1,30,Marketing,Yes,No
+54,17035,18,2,4,4,41,Business Development,No,No
+58,124767,30,1,1,2,4,Product Management,No,Yes
+24,32241,27,2,3,1,5,Business Development,No,No
+58,67975,20,1,3,1,41,Customer Support,No,No
+39,71396,26,1,4,3,45,Administration,No,Yes
+26,133920,14,4,3,4,10,Sales,No,No
+54,101226,13,1,2,3,27,Quality Assurance,No,Yes
+38,99719,0,2,1,2,16,Cybersecurity,Yes,Yes
+33,78014,15,3,4,4,30,Design,No,Yes
+43,54346,9,3,1,2,13,Business Development,Yes,Yes
+39,85411,18,2,4,3,36,Sales,Yes,Yes
+31,91441,29,3,4,3,21,Finance,Yes,No
+21,61121,21,1,4,1,45,Cybersecurity,No,No
+44,75197,2,3,4,4,40,Cybersecurity,Yes,No
+27,99577,4,2,1,4,45,Sales,No,Yes
+45,109634,8,3,3,1,15,Cybersecurity,No,No
+41,115211,17,1,4,4,20,Finance,Yes,No
+35,16466,10,1,2,2,20,Customer Support,Yes,Yes
+21,45771,15,2,4,2,45,Research,Yes,No
+32,98886,1,2,1,3,5,Quality Assurance,Yes,No
+27,80911,11,2,4,2,32,Administration,No,No
+35,103422,21,4,2,4,6,Sales,Yes,Yes
+41,88369,5,4,1,1,30,Human Resources,Yes,Yes
+39,16893,10,1,4,3,26,Logistics,Yes,No
+49,45573,26,4,2,1,37,Sales,Yes,No
+45,111907,7,4,1,3,13,Operations,Yes,Yes
+53,114956,11,3,4,3,29,Sales,No,No
+52,133580,28,4,2,1,5,Information Technology,No,No
+55,106404,26,3,1,2,25,Information Technology,No,No
+58,72724,29,2,4,2,13,Quality Assurance,Yes,No
+46,101133,1,3,1,2,24,Finance,Yes,Yes
+31,30989,8,3,2,2,31,Customer Support,No,No
+55,43931,14,2,4,1,20,Logistics,No,Yes
+28,24290,1,2,4,4,8,Marketing,No,No
+34,136136,28,1,4,3,9,Quality Assurance,No,Yes
+30,94878,0,1,2,1,21,Logistics,Yes,No
+22,105477,9,1,3,2,20,Design,Yes,No
+29,141299,1,1,4,2,15,Operations,Yes,No
+23,120686,11,3,2,1,26,Product Management,No,Yes
+41,122286,22,3,1,3,42,Cybersecurity,No,Yes
+46,55475,7,1,1,1,11,Administration,No,Yes
+28,97666,4,4,2,1,37,Administration,Yes,Yes
+22,111622,21,1,3,4,41,Engineering,Yes,No
+26,122573,27,4,2,1,11,Legal,No,No
+48,61546,0,2,1,4,27,Customer Support,Yes,Yes
+49,22008,14,3,1,3,30,Data Science,No,Yes
+46,63291,5,3,4,1,19,Procurement,No,Yes
+45,51386,11,4,3,1,34,Data Science,No,No
+32,105909,30,1,2,2,38,Customer Support,Yes,Yes
+25,48040,7,3,1,1,23,Customer Support,No,No
+54,75354,12,4,1,2,1,Procurement,No,No
+57,93543,18,2,1,2,3,Operations,Yes,Yes
+35,33157,26,2,2,2,3,Design,No,No
+56,50315,0,3,2,3,28,Customer Support,No,No
+35,50932,10,1,3,4,14,Legal,Yes,No
+43,128880,19,4,4,2,30,Data Science,No,No
+26,147018,0,3,4,1,5,Engineering,No,Yes
+41,29693,29,2,4,1,49,Marketing,No,Yes
+43,42241,7,1,1,2,15,Cybersecurity,Yes,Yes
+36,130194,4,4,4,2,38,Finance,No,Yes
+35,110790,16,3,1,1,14,Product Management,No,Yes
+45,87255,29,4,3,2,14,Data Science,No,No
+56,26350,7,1,1,4,49,Design,Yes,Yes
+31,71809,24,1,3,4,8,Research,Yes,Yes
+35,116894,9,2,3,3,8,Finance,Yes,No
+24,112557,1,1,4,2,19,Procurement,No,No
+41,46728,8,3,4,3,32,Information Technology,Yes,No
+33,32576,23,4,1,3,31,Human Resources,No,Yes
+42,98384,22,1,2,3,29,Product Management,Yes,No
+39,15390,2,1,4,2,41,Quality Assurance,Yes,Yes
+54,60436,17,3,4,3,11,Cybersecurity,Yes,No
+34,26569,6,4,2,4,45,Product Management,Yes,Yes
+24,37490,14,4,2,3,13,Sales,No,Yes
+47,60875,20,2,4,4,27,Quality Assurance,Yes,No
+49,20867,21,2,2,4,19,Research,No,No
+48,95820,19,4,1,2,26,Information Technology,No,No
+55,114515,17,3,3,3,37,Finance,No,No
+28,24121,24,3,3,2,48,Quality Assurance,Yes,Yes
+36,16539,2,2,4,4,9,Operations,Yes,No
+56,142402,27,1,4,1,28,Administration,No,No
+50,89229,29,3,1,3,32,Information Technology,Yes,No
+38,65435,22,1,2,2,3,Quality Assurance,No,No
+22,78965,13,3,4,1,32,Quality Assurance,Yes,Yes
+33,126048,23,4,3,3,5,Sales,Yes,No
+24,111444,1,2,1,3,8,Design,No,Yes
+46,84922,13,1,1,2,14,Research,Yes,Yes
+45,112799,21,1,2,1,3,Engineering,No,No
+50,108948,10,4,4,2,24,Product Management,No,No
+31,23947,15,3,4,3,13,Logistics,Yes,Yes
+27,63785,7,1,1,3,43,Human Resources,Yes,Yes
+51,134963,6,3,3,4,29,Procurement,Yes,No
+30,15507,10,4,4,3,8,Finance,No,No
+59,26618,2,2,3,3,42,Research & Development,Yes,Yes
+33,89286,16,1,1,1,31,Operations,Yes,Yes
+51,31122,13,3,4,1,26,Customer Support,Yes,Yes
+27,124598,5,1,3,4,18,Human Resources,Yes,No
+56,101436,7,3,1,4,18,Sales,No,No
+40,43633,21,3,3,4,7,Research & Development,Yes,No
+24,39495,4,3,4,2,48,Legal,No,No
+27,79550,26,4,2,2,38,Product Management,Yes,No
+21,51483,27,2,3,4,48,Administration,Yes,Yes
+33,128181,7,1,2,2,16,Design,Yes,Yes
+42,49069,1,2,4,3,33,Business Development,No,No
+41,134873,14,3,2,4,3,Finance,No,No
+42,131843,11,3,1,4,38,Operations,Yes,No
+48,86947,30,2,2,2,4,Product Management,No,No
+29,110761,16,2,3,1,36,Research,No,No
+46,128753,0,1,3,4,4,Business Development,Yes,Yes
+29,146764,14,3,2,2,42,Engineering,Yes,Yes
+35,43926,13,2,1,2,9,Business Development,Yes,Yes
+30,114782,19,4,4,1,40,Operations,Yes,Yes
+44,119700,21,3,2,4,17,Information Technology,Yes,No
+28,88984,15,3,3,1,17,Cybersecurity,Yes,Yes
+44,64593,28,1,3,3,33,Finance,No,Yes
+36,90609,8,4,2,1,20,Marketing,Yes,No
+46,20209,0,1,2,1,14,Procurement,Yes,Yes
+47,141700,27,4,2,2,22,Research & Development,Yes,No
+57,101597,16,1,4,1,27,Cybersecurity,Yes,Yes
+24,22211,28,4,3,3,43,Logistics,No,No
+44,24927,12,4,3,2,3,Product Management,No,No
+39,132333,20,4,3,3,24,Research & Development,No,No
+56,91382,25,2,4,1,30,Administration,Yes,Yes
+59,118780,20,3,1,3,8,Information Technology,Yes,No
+30,55696,4,4,3,3,22,Finance,No,No
+45,82616,9,2,3,1,25,Product Management,No,No
+38,65013,5,2,1,1,10,Cybersecurity,Yes,Yes
+39,64556,23,1,4,2,49,Research,Yes,No
+56,138723,18,3,1,2,29,Quality Assurance,Yes,No
+30,41140,24,3,1,4,40,Business Development,Yes,No
+53,16184,12,1,1,2,1,Procurement,Yes,Yes
+25,126361,0,3,1,1,21,Sales,No,No
+55,20606,19,1,4,3,39,Customer Support,Yes,No
+54,31555,24,2,4,3,24,Product Management,No,No
+53,105385,14,2,1,2,9,Information Technology,Yes,Yes
+41,73502,13,4,2,2,44,Legal,No,No
+37,118844,7,1,2,1,26,Customer Support,No,Yes
+42,106321,9,2,2,3,9,Cybersecurity,No,No
+57,64056,8,2,2,4,20,Logistics,Yes,No
+35,113234,16,1,3,4,35,Procurement,Yes,Yes
+55,56850,8,2,4,2,36,Engineering,Yes,No
+48,42843,2,3,4,4,42,Legal,No,No
+27,77320,10,2,1,1,36,Cybersecurity,No,Yes
+52,44793,11,1,3,4,9,Design,Yes,No
+31,34627,9,3,1,2,22,Engineering,No,No
+30,76822,24,3,1,1,1,Research,No,Yes
+29,70798,16,2,4,3,5,Operations,No,No
+34,90318,16,4,3,1,9,Finance,No,No
+33,119186,24,3,2,2,37,Design,Yes,No
+45,102902,10,1,4,2,38,Design,No,Yes
+22,86334,29,4,3,4,19,Sales,Yes,No
+55,121719,21,4,3,4,8,Sales,No,Yes
+27,138099,3,3,4,3,42,Information Technology,No,No
+41,27720,6,2,4,3,43,Engineering,Yes,No
+38,72608,20,4,1,2,32,Product Management,No,No
+23,122449,25,2,1,2,13,Research,Yes,Yes
+59,117828,13,3,1,2,20,Business Development,Yes,No
+31,141613,6,1,2,3,36,Human Resources,Yes,Yes
+59,87095,23,4,4,2,43,Sales,Yes,Yes
+44,120924,7,1,3,3,44,Cybersecurity,Yes,Yes
+39,111452,0,2,4,2,37,Human Resources,Yes,Yes
+24,102593,23,2,3,1,30,Data Science,Yes,Yes
+46,121975,21,1,2,1,10,Design,No,No
+58,92242,3,3,4,2,31,Cybersecurity,Yes,No
+52,131041,28,3,3,1,25,Research,No,No
+59,141202,29,4,3,3,29,Information Technology,No,Yes
+56,92606,11,4,1,4,24,Cybersecurity,No,Yes
+60,138769,23,3,2,1,39,Finance,Yes,No
+57,133542,2,3,4,4,21,Sales,Yes,No
+53,121438,12,1,1,1,41,Research & Development,No,No
+56,15924,19,2,2,3,9,Product Management,Yes,No
+23,66322,30,2,1,1,42,Cybersecurity,No,No
+29,86042,5,4,4,1,42,Finance,No,No
+28,61418,10,3,3,2,2,Human Resources,No,No
+53,115699,22,1,4,4,4,Data Science,Yes,Yes
+26,105140,3,4,2,4,8,Cybersecurity,No,No
+59,26781,19,1,4,3,32,Business Development,Yes,Yes
+24,132358,15,3,2,3,14,Procurement,No,No
+33,51133,6,3,1,4,49,Logistics,Yes,Yes
+22,112628,21,3,2,2,13,Operations,No,No
+25,91946,28,2,3,2,21,Customer Support,Yes,Yes
+47,100058,10,3,3,4,24,Procurement,No,Yes
+52,58129,23,4,3,1,50,Finance,Yes,No
+41,23531,0,2,1,4,18,Design,Yes,No
+28,52038,25,1,2,1,45,Finance,Yes,No
+58,102939,28,4,1,4,40,Quality Assurance,No,No
+28,57674,26,4,4,1,26,Information Technology,No,No
+23,142572,6,1,4,2,32,Operations,No,No
+23,44831,11,2,4,4,44,Design,Yes,Yes
+42,72174,6,4,4,3,33,Human Resources,Yes,Yes
+26,26279,26,4,3,1,31,Customer Support,No,Yes
+22,75610,22,4,2,2,18,Product Management,No,No
+43,68051,6,2,3,3,35,Cybersecurity,Yes,Yes
+22,71652,9,2,2,2,12,Administration,No,No
+58,80524,29,2,2,1,25,Logistics,Yes,No
+37,21470,15,4,1,4,45,Human Resources,Yes,No
+55,68473,25,3,4,2,31,Legal,Yes,Yes
+54,59439,7,1,2,4,10,Cybersecurity,No,Yes
+43,29308,8,3,4,4,47,Logistics,Yes,No
+50,106563,8,2,4,2,34,Design,No,No
+28,50081,1,4,4,2,3,Information Technology,Yes,Yes
+42,24837,12,4,3,2,46,Procurement,No,Yes
+56,133128,12,3,4,4,39,Customer Support,No,Yes
+25,127651,22,3,2,3,8,Design,Yes,Yes
+33,112624,22,1,3,1,32,Information Technology,Yes,No
+49,45063,3,4,4,3,43,Research & Development,Yes,No
+51,84453,24,3,1,4,29,Customer Support,Yes,No
+36,117166,23,1,4,2,22,Procurement,No,Yes
+50,29506,11,2,4,2,20,Research,No,No
+36,128604,16,3,3,1,6,Research,No,No
+32,41026,1,2,2,1,43,Administration,No,Yes
+37,67413,12,1,4,3,49,Legal,No,Yes
+36,80066,30,2,3,3,29,Research & Development,Yes,Yes
+32,65971,28,4,3,1,42,Engineering,Yes,No
+28,128978,17,4,2,4,17,Engineering,No,No
+40,65494,27,2,3,3,31,Operations,Yes,No
+23,118864,27,4,2,2,34,Data Science,Yes,Yes
+36,147151,26,1,1,2,38,Data Science,Yes,Yes
+50,110386,14,4,4,4,37,Information Technology,Yes,Yes
+43,101126,30,2,3,1,4,Legal,Yes,No
+48,95863,7,2,1,3,2,Human Resources,Yes,No
+60,93291,14,2,3,2,12,Research,No,Yes
+25,140659,0,3,3,1,35,Operations,Yes,No
+40,22235,19,2,1,3,6,Quality Assurance,Yes,Yes
+60,97733,9,1,3,4,46,Product Management,No,No
+21,77712,11,4,3,2,8,Legal,No,No
+50,140849,4,4,1,4,21,Research & Development,No,No
+41,94823,8,3,3,4,46,Procurement,Yes,No
+40,119215,22,3,2,4,35,Cybersecurity,No,No
+26,47230,7,1,3,3,48,Legal,Yes,No
+42,99573,15,2,4,4,15,Administration,No,No
+38,55644,13,3,3,3,7,Sales,Yes,No
+28,60203,26,4,4,3,15,Logistics,Yes,Yes
+59,81677,24,3,4,4,45,Product Management,No,No
+52,138246,12,3,3,4,6,Marketing,Yes,No
+53,99817,22,2,1,1,47,Legal,Yes,No
+36,84806,20,3,2,2,17,Engineering,Yes,No
+32,57814,12,1,2,1,4,Research & Development,Yes,Yes
+58,85219,30,4,3,2,22,Business Development,No,No
+54,110345,4,2,1,2,32,Customer Support,No,No
+34,115088,15,4,1,1,22,Sales,No,Yes
+56,84322,25,1,2,1,27,Sales,Yes,Yes
+53,36650,10,1,1,2,46,Cybersecurity,No,Yes
+43,109242,21,3,3,2,15,Research & Development,No,No
+22,53196,4,3,3,2,44,Engineering,Yes,Yes
+41,44709,12,3,1,3,22,Marketing,No,No
+22,95428,27,4,3,2,28,Research,No,No
+47,24943,10,1,4,4,42,Quality Assurance,No,Yes
+29,36042,24,2,2,4,38,Research,Yes,No
+21,58894,18,3,3,4,9,Data Science,No,No
+31,71759,2,4,1,1,34,Information Technology,No,No
+23,120973,14,3,2,1,36,Information Technology,No,No
+43,59306,6,1,3,1,9,Logistics,Yes,Yes
+46,123369,6,2,2,2,15,Sales,Yes,No
+24,43379,5,1,1,4,45,Research,No,Yes
+38,135667,2,4,4,2,20,Data Science,No,No
+26,149034,29,3,4,3,8,Research & Development,No,No
+55,132626,12,1,3,3,28,Design,Yes,Yes
+42,140180,6,4,4,1,19,Research,Yes,No
+35,67349,4,3,3,3,16,Product Management,No,No
+42,20730,22,2,2,4,11,Legal,No,No
+57,34023,17,1,3,3,42,Data Science,Yes,Yes
+32,141796,21,3,3,1,8,Finance,Yes,No
+58,96533,29,3,3,2,33,Information Technology,No,Yes
+38,98286,7,3,4,3,10,Customer Support,Yes,Yes
+55,56979,16,3,3,4,18,Quality Assurance,No,No
+50,37837,19,1,1,4,35,Engineering,No,No
+44,119975,26,3,3,4,43,Quality Assurance,Yes,No
+50,35923,0,4,2,2,50,Administration,No,Yes
+34,23876,13,1,1,4,3,Cybersecurity,No,Yes
+26,75973,16,3,2,1,40,Business Development,No,No
+23,148959,9,1,2,1,27,Quality Assurance,No,No
+36,57422,11,4,2,4,28,Quality Assurance,No,Yes
+27,66413,15,4,1,3,46,Sales,No,No
+34,117484,13,1,1,4,6,Product Management,No,Yes
+29,148913,29,3,4,1,47,Human Resources,Yes,Yes
+35,43756,26,3,1,1,14,Logistics,Yes,Yes
+41,86576,15,4,3,1,7,Engineering,No,No
+55,133248,7,3,2,3,10,Procurement,Yes,No
+22,25304,22,4,4,3,15,Cybersecurity,No,No
+47,45341,27,3,1,3,31,Engineering,No,No
+22,142039,9,4,2,1,29,Procurement,Yes,Yes
+55,147447,28,2,1,2,42,Data Science,No,No
+38,114485,16,3,4,4,17,Research & Development,No,No
+34,37092,26,3,1,4,29,Cybersecurity,Yes,No
+40,146562,29,3,1,1,49,Data Science,Yes,Yes
+38,18729,28,1,2,3,44,Cybersecurity,Yes,Yes
+30,133222,17,3,3,2,15,Research,Yes,No
+45,100216,19,1,1,2,26,Research & Development,Yes,No
+22,98860,15,1,4,3,12,Design,Yes,No
+45,111870,16,4,1,4,25,Finance,No,No
+53,36398,15,1,1,4,41,Finance,Yes,Yes
+56,49650,18,1,3,2,5,Information Technology,Yes,No
+51,118889,23,2,2,2,4,Product Management,No,No
+34,18159,23,3,4,3,44,Legal,No,No
+21,113162,7,1,2,4,48,Engineering,Yes,Yes
+36,117834,5,3,2,2,41,Engineering,No,No
+23,36638,5,1,2,4,31,Marketing,No,No
+55,16073,20,4,1,2,3,Data Science,No,Yes
+26,44320,28,2,3,3,3,Procurement,No,No
+45,49924,8,1,1,4,26,Marketing,No,No
+33,83116,3,3,4,2,50,Legal,No,Yes
+54,17159,25,4,3,2,17,Quality Assurance,No,Yes
+28,63940,30,3,2,2,10,Logistics,Yes,Yes
+41,94436,11,4,3,2,2,Legal,No,No
+54,29678,27,2,4,3,24,Data Science,Yes,No
+24,82163,11,4,1,4,11,Procurement,No,Yes
+45,66137,22,3,1,4,24,Customer Support,No,Yes
+35,76497,16,3,2,1,35,Operations,Yes,No
+24,115485,14,1,1,4,23,Finance,No,No
+32,120468,8,4,1,1,32,Finance,No,Yes
+52,15901,6,3,4,2,23,Marketing,Yes,No
+52,102980,9,1,3,3,34,Human Resources,No,No
+48,122594,15,2,1,3,41,Finance,No,No
+33,17881,11,3,4,2,19,Research & Development,Yes,No
+51,44863,24,1,4,1,2,Business Development,Yes,No
+34,147450,6,3,2,2,2,Research,No,Yes
+40,60201,17,4,4,3,15,Research & Development,Yes,Yes
+38,74251,14,1,2,3,21,Information Technology,No,No
+49,87572,5,4,1,4,35,Data Science,No,No
+26,54255,25,2,2,1,5,Design,Yes,No
+52,78212,11,4,4,4,43,Customer Support,Yes,No
+49,65210,10,1,3,3,27,Sales,Yes,Yes
+22,140629,19,3,3,3,24,Product Management,Yes,No
+43,37499,2,1,1,4,7,Legal,No,Yes
+39,117552,1,4,1,4,6,Finance,Yes,No
+51,76360,5,4,3,3,46,Product Management,Yes,No
+25,142466,23,3,2,4,33,Marketing,No,No
+39,100473,21,2,1,4,49,Data Science,No,No
+54,106873,24,1,4,1,17,Business Development,No,No
+30,80756,29,3,1,3,46,Engineering,No,No
+45,71344,4,3,2,2,42,Research & Development,No,No
+22,86154,17,3,1,1,30,Data Science,No,No
+31,42464,15,1,4,2,8,Legal,No,No
+51,136897,7,1,4,4,40,Operations,No,No
+35,52344,24,1,4,4,46,Business Development,No,No
+29,98791,29,2,2,2,7,Finance,Yes,No
+43,147534,25,3,2,4,6,Information Technology,Yes,No
+39,135209,19,4,4,4,4,Customer Support,No,No
+29,96441,21,4,4,1,1,Research & Development,Yes,Yes
+55,105456,30,3,2,2,15,Research & Development,No,No
+41,96788,10,4,2,1,31,Human Resources,No,No
+29,29175,9,2,2,2,25,Customer Support,No,No
+48,98434,23,2,3,1,47,Business Development,No,No
+27,99518,24,1,2,3,33,Research & Development,Yes,No
+36,81537,11,1,4,3,35,Quality Assurance,Yes,No
+36,130721,20,1,3,2,5,Research & Development,No,No
+53,62645,27,1,2,3,5,Marketing,Yes,Yes
+24,38283,5,1,4,1,36,Marketing,Yes,No
+24,101971,26,4,1,2,17,Human Resources,No,No
+59,107759,19,4,3,3,14,Administration,No,No
+60,117780,4,1,4,3,29,Legal,Yes,Yes
+37,45734,22,2,1,2,8,Administration,Yes,No
+57,15515,8,4,4,3,34,Sales,No,No
+59,125782,25,2,2,3,40,Product Management,No,No
+49,81727,26,2,2,2,1,Cybersecurity,Yes,No
+56,124164,28,3,1,3,29,Product Management,No,Yes
+58,61216,15,3,2,3,36,Engineering,No,No
+59,86833,21,1,4,3,37,Engineering,No,Yes
+57,73755,13,2,1,3,29,Business Development,Yes,No
+55,42856,21,4,4,4,5,Quality Assurance,Yes,Yes
+27,88870,7,3,4,2,32,Human Resources,No,No
+47,22987,26,3,4,4,24,Procurement,Yes,No
+48,111502,19,2,2,4,19,Research & Development,No,No
+42,149404,18,3,2,1,12,Finance,Yes,No
+34,81323,13,3,4,4,1,Design,Yes,No
+27,24873,6,4,3,4,7,Research & Development,Yes,Yes
+57,120219,4,2,4,1,17,Procurement,No,Yes
+42,20033,17,3,4,3,34,Procurement,No,Yes
+25,88324,1,2,1,3,43,Engineering,No,No
+22,30689,10,3,4,4,7,Procurement,Yes,Yes
+47,124756,21,4,2,1,17,Marketing,No,No
+41,15066,7,2,1,3,3,Data Science,No,Yes
+58,129159,0,3,3,1,29,Engineering,No,Yes
+35,22533,30,4,1,2,22,Research & Development,No,Yes
+41,130828,26,3,3,2,38,Design,Yes,No
+30,74658,21,2,1,2,43,Business Development,No,No
+43,53498,11,3,1,2,29,Design,No,No
+59,124028,1,2,3,4,50,Research & Development,Yes,No
+25,26772,17,2,2,2,50,Operations,No,No
+21,104385,6,3,2,2,42,Quality Assurance,Yes,No
+33,27940,25,4,2,1,5,Data Science,Yes,No
+41,133027,16,1,1,3,30,Research & Development,Yes,Yes
+46,31932,21,4,4,1,23,Sales,No,No
+41,39648,29,4,1,4,21,Logistics,Yes,No
+38,47966,22,3,4,2,26,Logistics,Yes,No
+57,57598,13,4,4,3,47,Marketing,Yes,No
+52,76084,23,4,2,3,21,Research,No,No
+56,146250,6,1,4,2,20,Customer Support,Yes,Yes
+37,32118,21,4,1,2,23,Research & Development,Yes,No
+55,37616,24,1,1,4,4,Data Science,Yes,Yes
+31,146870,28,3,2,4,21,Administration,No,No
+41,22601,2,1,3,2,21,Engineering,Yes,No
+46,40363,26,2,1,2,1,Administration,Yes,No
+24,17795,5,2,4,2,15,Business Development,No,Yes
+54,112462,19,1,1,2,17,Finance,No,Yes
+38,117892,1,2,1,3,14,Operations,No,Yes
+60,87833,16,3,1,4,19,Finance,Yes,Yes
+55,18084,11,2,3,2,50,Business Development,Yes,No
+49,110865,11,1,4,2,34,Human Resources,Yes,No
+49,15731,29,3,2,3,6,Engineering,Yes,No
+58,147201,16,2,1,1,45,Administration,No,No
+41,16605,26,3,4,2,49,Information Technology,Yes,Yes
+33,92506,9,1,4,3,6,Research & Development,No,Yes
+37,59130,2,2,2,3,5,Marketing,Yes,Yes
+29,83469,19,3,1,1,7,Customer Support,Yes,No
+21,105436,17,3,3,4,33,Design,Yes,No
+22,127341,12,2,4,4,13,Information Technology,No,No
+49,146965,11,3,2,4,1,Research & Development,No,No
+53,114694,26,3,3,2,13,Operations,No,No
+30,34773,26,1,4,4,43,Business Development,No,No
+60,19239,29,1,1,2,27,Procurement,Yes,Yes
+41,35863,26,1,4,2,7,Sales,Yes,No
+48,66415,16,1,3,3,3,Business Development,Yes,Yes
+31,83968,3,1,3,4,25,Human Resources,Yes,Yes
+54,75430,30,1,1,4,33,Design,Yes,Yes
+28,16515,22,2,1,4,40,Administration,No,Yes
+42,112206,9,1,2,2,17,Human Resources,No,No
+28,71240,10,3,1,2,45,Human Resources,Yes,No
+35,20586,5,2,2,4,14,Information Technology,Yes,No
+37,135419,5,3,3,2,37,Sales,Yes,No
+43,137374,26,1,3,2,23,Research & Development,Yes,No
+44,46186,8,1,4,1,24,Information Technology,No,Yes
+39,41928,29,3,4,1,29,Research,Yes,No
+25,137990,14,3,2,4,38,Business Development,Yes,No
+52,102029,1,3,1,4,27,Marketing,Yes,Yes
+21,35711,3,4,1,1,38,Engineering,Yes,No
+43,69962,4,4,4,2,40,Procurement,No,No
+57,35039,16,4,3,2,45,Procurement,Yes,No
+28,51561,7,4,2,3,50,Quality Assurance,No,No
+33,16577,7,2,3,4,23,Human Resources,No,No
+28,122792,21,1,3,4,31,Engineering,Yes,Yes
+43,25785,11,3,1,4,36,Customer Support,Yes,Yes
+21,87227,20,1,2,3,17,Logistics,Yes,Yes
+44,133680,7,3,3,3,37,Engineering,Yes,No
+55,76957,18,1,4,2,3,Business Development,Yes,No
+44,80431,2,2,4,1,36,Cybersecurity,No,Yes
+37,86894,17,4,1,1,5,Human Resources,No,No
+25,70192,20,1,4,1,46,Information Technology,No,No
+40,16462,18,3,4,2,15,Sales,No,No
+41,143848,18,1,3,1,49,Research & Development,No,No
+60,91106,14,2,4,3,6,Research & Development,Yes,No
+51,63665,5,2,4,3,10,Marketing,Yes,No
+56,96010,15,1,3,4,32,Procurement,No,Yes
+31,87573,7,4,1,1,23,Information Technology,Yes,No
+35,122803,15,3,1,3,48,Finance,Yes,Yes
+39,134682,17,2,2,4,17,Logistics,No,No
+27,28386,19,2,4,1,46,Product Management,No,No
+48,139069,15,1,3,1,20,Research & Development,No,No
+25,69460,10,2,2,3,44,Administration,Yes,Yes
+25,130375,6,2,1,4,41,Operations,No,Yes
+50,127660,16,3,1,4,15,Design,No,No
+52,106319,16,4,3,3,44,Research & Development,Yes,No
+28,131582,11,3,2,3,46,Research & Development,Yes,Yes
+30,57771,12,4,2,3,22,Information Technology,No,No
+58,67335,9,3,3,1,50,Engineering,Yes,Yes
+52,67949,6,1,3,3,6,Legal,No,No
+48,110558,13,2,2,3,4,Cybersecurity,Yes,No
+37,117272,22,4,1,2,23,Quality Assurance,No,No
+51,17716,0,1,4,3,44,Administration,Yes,Yes
+28,86916,16,2,1,3,45,Quality Assurance,Yes,Yes
+60,65906,3,2,3,1,19,Information Technology,Yes,No
+45,15463,20,2,2,4,45,Engineering,No,Yes
+29,89694,4,3,2,1,31,Sales,No,No
+22,83694,19,1,4,2,44,Logistics,No,No
+35,35008,23,1,2,3,3,Cybersecurity,Yes,No
+23,85474,22,2,4,3,28,Operations,Yes,No
+56,53185,24,4,1,3,3,Finance,Yes,Yes
+24,102924,6,1,1,3,14,Operations,No,No
+34,49980,30,3,2,3,18,Customer Support,Yes,No
+45,37504,9,4,2,3,27,Research,No,Yes
+30,69970,16,4,3,2,10,Cybersecurity,No,No
+41,31766,28,4,3,3,49,Research,No,No
+56,131944,29,4,2,3,15,Logistics,No,No
+32,108922,6,1,2,3,19,Engineering,No,No
+47,135494,0,2,1,2,9,Cybersecurity,Yes,Yes
+60,23802,6,4,2,3,4,Engineering,Yes,Yes
+22,49159,25,3,3,2,15,Marketing,Yes,No
+33,26516,23,3,1,1,48,Human Resources,Yes,Yes
+52,65492,10,2,4,3,8,Logistics,Yes,No
+51,44086,8,1,3,4,49,Data Science,Yes,Yes
+36,128758,11,2,3,2,1,Customer Support,No,Yes
+52,45480,2,4,1,1,7,Logistics,Yes,No
+52,143023,30,1,4,2,31,Human Resources,No,No
+54,125195,3,1,3,2,18,Marketing,No,No
+31,53737,3,4,2,1,12,Data Science,No,No
+30,24265,27,3,3,3,48,Legal,No,Yes
+35,129165,24,4,1,3,30,Finance,No,Yes
+37,134501,12,2,1,2,33,Information Technology,Yes,Yes
+60,85990,22,4,1,1,47,Data Science,Yes,Yes
+38,30386,18,3,3,3,7,Information Technology,Yes,No
+29,119718,9,4,4,2,28,Product Management,No,No
+45,52425,4,2,2,4,49,Human Resources,Yes,Yes
+60,136635,6,2,1,1,3,Product Management,Yes,Yes
+34,68634,23,3,4,4,43,Human Resources,No,No
+45,101988,15,2,2,4,6,Sales,No,No
+42,121337,0,2,1,2,31,Engineering,Yes,Yes
+50,82443,11,4,2,1,38,Design,No,No
+40,44424,1,1,2,3,15,Marketing,No,No
+41,103844,6,2,4,3,7,Business Development,No,No
+52,56984,10,2,2,2,43,Marketing,Yes,Yes
+41,56505,30,3,1,3,30,Sales,No,Yes
+55,117478,28,3,4,3,27,Design,No,No
+52,77699,29,4,3,4,17,Human Resources,No,Yes
+50,129012,12,4,3,4,18,Legal,No,No
+59,49758,30,2,4,1,22,Quality Assurance,No,No
+32,31374,1,1,3,4,26,Sales,Yes,Yes
+38,133686,6,1,2,3,27,Finance,Yes,No
+41,18775,14,4,1,1,40,Administration,No,No
+33,42388,24,3,2,1,24,Administration,No,No
+41,138800,10,2,4,2,8,Operations,Yes,No
+28,36029,1,2,1,4,21,Product Management,Yes,Yes
+60,98981,6,1,4,1,29,Administration,No,No
+27,68639,3,4,4,3,43,Marketing,No,No
+43,129010,10,1,4,1,21,Business Development,Yes,Yes
+52,46105,28,1,2,1,3,Engineering,No,No
+31,141519,1,4,1,2,31,Quality Assurance,No,Yes
+42,117739,28,3,1,3,27,Design,Yes,Yes
+42,66796,15,2,1,3,46,Research,Yes,Yes
+45,30804,6,3,2,4,27,Sales,Yes,Yes
+42,142732,12,4,3,3,9,Administration,Yes,Yes
+48,22951,4,4,2,1,33,Human Resources,No,Yes
+49,34065,16,2,2,3,33,Information Technology,No,No
+33,116503,20,3,4,3,26,Information Technology,No,No
+38,120072,11,2,1,1,28,Research & Development,No,Yes
+22,104360,27,1,1,2,44,Customer Support,Yes,Yes
+49,77287,18,1,3,4,43,Research & Development,Yes,No
+41,122357,6,1,3,4,31,Customer Support,No,No
+35,44670,5,3,4,2,1,Quality Assurance,No,No
+47,64112,7,1,1,1,20,Quality Assurance,No,Yes
+51,103388,12,2,3,4,12,Sales,Yes,No
+35,104156,4,3,3,2,17,Customer Support,Yes,Yes
+43,62922,1,2,1,2,15,Procurement,Yes,Yes
+44,108348,8,4,2,2,34,Administration,No,No
+33,94335,29,3,3,4,50,Information Technology,No,No
+42,41312,10,2,1,4,16,Product Management,No,No
+57,81985,23,2,3,4,4,Data Science,Yes,No
+53,145744,5,3,4,4,8,Business Development,No,No
+23,115963,28,4,3,3,34,Quality Assurance,Yes,No
+39,46551,25,3,1,2,46,Business Development,No,Yes
+43,104813,6,1,3,3,25,Sales,No,No
+49,116025,24,1,4,2,15,Sales,Yes,No
+50,139342,6,4,4,4,28,Legal,Yes,No
+59,24637,18,2,3,4,9,Data Science,No,No
+45,58258,5,2,3,3,2,Design,Yes,Yes
+57,144553,10,2,4,1,17,Quality Assurance,Yes,No
+28,41950,28,3,4,4,10,Cybersecurity,Yes,No
+36,142870,10,3,2,1,9,Customer Support,Yes,No
+28,15215,6,4,2,2,31,Design,Yes,Yes
+21,120603,1,1,4,3,2,Finance,No,Yes
+25,26523,18,2,3,1,24,Legal,No,No
+23,83689,3,1,1,1,19,Marketing,No,No
+21,38834,25,3,3,4,17,Logistics,No,No
+24,49474,5,3,3,1,43,Finance,Yes,No
+60,58066,16,3,2,1,49,Marketing,No,No
+55,25400,24,1,2,2,10,Operations,Yes,Yes
+52,140211,4,4,2,3,50,Data Science,No,No
+54,25345,28,4,4,4,28,Administration,No,No
+45,48896,27,3,4,4,38,Design,Yes,No
+30,43899,29,2,3,1,48,Procurement,No,No
+41,43229,6,1,3,2,28,Legal,No,No
+59,20583,8,3,1,1,50,Operations,No,Yes
+47,86537,24,1,3,1,50,Data Science,No,Yes
+47,89807,0,1,3,4,1,Quality Assurance,No,No
+22,144648,30,4,2,1,3,Research & Development,No,No
+33,127652,0,3,2,1,15,Design,No,No
+29,86792,18,4,2,2,10,Research & Development,Yes,No
+56,146300,5,3,2,4,21,Product Management,No,No
+42,52052,17,1,2,3,37,Customer Support,No,No
+46,61032,9,4,1,2,15,Product Management,No,No
+32,48686,27,1,1,2,23,Cybersecurity,No,No
+37,91981,10,3,1,2,14,Sales,No,No
+34,113802,0,2,2,4,15,Product Management,No,No
+34,148881,0,4,4,1,10,Logistics,Yes,No
+54,57818,12,4,2,3,9,Human Resources,No,No
+40,115422,4,1,2,4,44,Product Management,No,Yes
+31,86927,19,1,1,1,39,Procurement,Yes,Yes
+36,94465,0,2,2,2,5,Product Management,Yes,No
+51,128221,19,4,1,4,25,Procurement,No,Yes
+26,52333,2,3,2,1,42,Engineering,No,No
+39,141457,17,3,3,3,26,Procurement,No,No
+57,31576,8,4,4,3,8,Logistics,Yes,No
+24,134875,13,4,4,1,22,Marketing,Yes,Yes
+24,54405,30,4,1,4,25,Procurement,No,Yes
+40,109000,26,2,3,2,48,Engineering,No,No
+30,46601,16,3,4,1,12,Engineering,Yes,No
+44,82946,22,3,1,2,9,Information Technology,Yes,Yes
+55,67116,13,1,2,3,10,Information Technology,Yes,Yes
+46,119186,28,1,2,1,48,Cybersecurity,Yes,No
+57,77894,3,4,3,3,10,Cybersecurity,No,No
+58,22465,4,1,4,2,9,Finance,Yes,No
+41,71754,25,2,2,2,26,Data Science,Yes,No
+60,107850,20,3,1,1,35,Engineering,No,No
+59,124765,16,3,2,1,27,Product Management,Yes,No
+41,107691,21,1,2,1,31,Procurement,No,No
+30,53871,28,4,4,3,19,Information Technology,Yes,Yes
+58,44511,24,1,4,2,43,Legal,No,No
+24,95960,1,4,1,2,38,Operations,Yes,Yes
+40,80776,22,2,3,3,6,Design,No,No
+37,59462,21,3,3,1,15,Sales,No,No
+27,47574,4,2,2,4,29,Cybersecurity,Yes,No
+24,117072,3,3,1,1,47,Information Technology,No,Yes
+49,93282,3,2,3,4,45,Logistics,No,No
+34,124779,5,1,3,4,5,Information Technology,Yes,Yes
+23,33557,19,2,2,3,14,Research & Development,No,No
+44,87104,20,2,1,2,2,Human Resources,No,Yes
+57,137013,12,1,3,2,23,Business Development,Yes,Yes
+36,56081,21,3,4,2,44,Data Science,Yes,Yes
+24,134181,4,3,4,2,46,Human Resources,No,No
+44,42094,22,1,2,3,19,Product Management,No,No
+54,81766,24,2,2,4,24,Engineering,No,No
+50,98053,25,2,2,2,20,Customer Support,No,No
+38,16301,22,2,2,4,47,Engineering,No,Yes
+39,96463,6,4,3,3,27,Logistics,Yes,No
+51,39466,19,3,1,1,24,Information Technology,No,No
+39,41081,0,2,2,3,17,Business Development,Yes,No
+39,39354,13,3,2,2,25,Engineering,Yes,No
+42,108297,23,2,3,1,46,Product Management,Yes,No
+44,33300,3,1,2,3,31,Operations,Yes,No
+32,79384,16,1,2,3,28,Operations,No,Yes
+50,110027,20,3,1,4,50,Procurement,No,No
+58,136684,13,3,4,3,28,Human Resources,No,Yes
+51,75892,15,1,2,1,22,Legal,Yes,Yes
+56,50525,13,4,3,3,5,Business Development,Yes,Yes
+39,21464,15,1,1,2,44,Research,No,No
+56,31562,23,2,3,4,42,Business Development,Yes,No
+50,122392,19,4,1,1,8,Design,No,No
+53,70514,28,1,1,1,38,Quality Assurance,Yes,Yes
+38,128428,27,4,2,3,28,Cybersecurity,Yes,Yes
+48,127564,7,4,2,2,47,Administration,Yes,No
+31,123047,23,4,2,4,12,Engineering,Yes,No
+53,47634,2,3,4,1,25,Administration,Yes,No
+37,15060,24,1,4,4,38,Research,Yes,Yes
+26,24269,18,3,3,3,44,Legal,Yes,No
+24,38065,0,3,2,2,15,Operations,No,No
+40,17895,1,2,4,3,44,Data Science,No,Yes
+47,95859,14,2,2,4,41,Operations,Yes,Yes
+35,119127,21,4,4,3,34,Information Technology,Yes,Yes
+26,111426,27,4,4,4,45,Legal,No,No
+34,26962,9,2,1,1,13,Research,Yes,Yes
+31,48302,17,2,2,1,8,Quality Assurance,No,No
+59,100382,21,1,2,3,13,Cybersecurity,No,No
+29,19011,13,4,4,1,36,Procurement,No,No
+46,144716,16,4,2,4,6,Human Resources,No,No
+36,34782,26,2,4,1,38,Business Development,No,No
+25,135654,12,1,2,2,32,Research,Yes,Yes
+30,24196,0,2,1,2,21,Procurement,Yes,Yes
+23,58459,4,2,2,3,44,Customer Support,No,No
+33,102245,25,3,1,3,44,Research,Yes,No
+50,93863,12,4,3,3,49,Customer Support,No,No
+26,138206,26,1,2,3,7,Human Resources,Yes,No
+37,116010,24,3,2,4,26,Administration,Yes,Yes
+39,47769,13,4,2,4,15,Product Management,Yes,No
+55,122529,23,2,1,2,49,Operations,Yes,No
+46,39700,2,1,2,4,42,Marketing,Yes,Yes
+25,20269,14,4,2,1,23,Data Science,Yes,Yes
+49,136631,18,2,4,2,38,Cybersecurity,Yes,Yes
+57,58880,30,3,3,3,41,Finance,Yes,Yes
+40,129003,16,1,1,3,15,Product Management,No,No
+41,64589,29,4,4,4,48,Procurement,No,Yes
+30,50897,2,3,1,2,40,Sales,Yes,No
+25,29380,15,2,4,4,16,Marketing,Yes,Yes
+56,85934,30,2,3,4,32,Research & Development,Yes,No
+26,70830,13,4,4,4,37,Data Science,No,No
+46,20529,11,2,1,2,18,Data Science,Yes,No
+24,109598,27,1,2,3,20,Quality Assurance,Yes,No
+59,97987,11,4,2,1,46,Information Technology,No,No
+59,64178,28,3,3,3,2,Finance,No,No
+55,136952,10,4,1,2,23,Research,No,Yes
+21,54886,16,4,1,3,30,Cybersecurity,Yes,Yes
+44,64699,7,3,1,3,3,Design,No,Yes
+56,91396,16,2,3,1,46,Business Development,Yes,No
+26,105678,20,3,2,3,39,Data Science,No,No
+51,40279,24,1,4,3,47,Research,Yes,No
+40,125776,22,2,3,3,49,Cybersecurity,Yes,No
+44,116444,19,4,4,4,1,Human Resources,Yes,Yes
+45,121300,10,2,2,2,41,Marketing,No,No
+56,128793,24,2,3,2,22,Product Management,Yes,No
+41,131278,24,1,2,1,29,Research & Development,Yes,Yes
+50,118247,1,2,4,4,14,Quality Assurance,Yes,No
+44,23997,9,2,1,4,48,Sales,No,Yes
+50,121102,9,2,1,3,28,Sales,Yes,Yes
+42,100711,10,4,4,2,21,Data Science,Yes,No
+48,131045,27,2,1,1,45,Logistics,Yes,Yes
+27,55860,5,3,4,4,32,Operations,Yes,Yes
+55,18225,3,2,3,3,6,Human Resources,No,No
+48,125114,23,1,3,1,1,Engineering,Yes,No
+34,128218,11,2,3,4,21,Data Science,No,No
+30,115764,10,2,1,1,4,Finance,No,No
+36,122041,22,4,2,4,3,Research,Yes,No
+36,127224,22,3,1,1,49,Research,No,Yes
+51,78656,26,2,1,4,30,Finance,No,No
+45,91290,25,3,2,4,31,Administration,No,No
+33,71633,24,1,2,1,34,Cybersecurity,Yes,Yes
+26,41655,12,4,2,4,19,Legal,No,No
+29,136118,4,3,2,4,20,Quality Assurance,No,No
+56,18114,5,4,1,4,23,Business Development,Yes,No
+40,41502,0,2,4,1,40,Procurement,Yes,Yes
+38,64768,5,1,3,1,25,Marketing,No,No
+41,63128,17,4,4,4,15,Administration,No,No
+24,98123,21,2,1,4,38,Research,No,No
+53,123255,8,3,2,1,23,Human Resources,Yes,No
+47,18174,23,1,3,3,2,Data Science,No,No
+27,132769,24,1,3,4,15,Business Development,Yes,Yes
+26,50398,28,3,4,3,44,Sales,No,No
+35,138549,14,3,1,1,35,Marketing,No,Yes
+38,87635,25,1,1,4,10,Design,Yes,Yes
+52,38760,7,4,1,3,14,Logistics,No,No
+31,145674,18,1,3,1,27,Engineering,Yes,No
+40,29130,23,3,4,3,14,Operations,No,No
+44,122215,15,4,3,2,35,Administration,Yes,No
+35,103095,5,2,3,1,33,Sales,Yes,Yes
+27,75942,28,1,2,2,1,Business Development,No,Yes
+41,113970,5,3,4,1,34,Business Development,Yes,No
+46,97203,21,2,2,1,19,Business Development,No,No
+34,103177,2,1,1,4,24,Research & Development,Yes,No
+57,87902,9,1,3,2,42,Quality Assurance,Yes,No
+41,107172,0,4,4,2,4,Research & Development,Yes,No
+38,35056,27,3,1,2,36,Operations,No,Yes
+25,70739,13,2,4,1,13,Research & Development,Yes,No
+23,96685,3,1,3,2,32,Engineering,Yes,No
+43,63639,25,4,4,2,9,Research & Development,Yes,No
+46,15992,11,2,1,4,39,Procurement,No,Yes
+57,87394,5,2,2,3,16,Administration,No,No
+44,82657,10,1,3,3,50,Data Science,Yes,No
+39,42160,11,2,2,2,3,Research,Yes,Yes
+45,60156,9,1,3,2,20,Engineering,No,No
+41,101442,17,4,1,2,10,Research,Yes,No
+32,132925,6,4,3,2,22,Quality Assurance,Yes,Yes
+53,19136,6,2,2,3,48,Finance,Yes,No
+24,76868,10,1,3,4,3,Data Science,Yes,Yes
+27,97263,3,3,1,1,11,Data Science,Yes,Yes
+42,47167,19,4,3,2,25,Cybersecurity,Yes,No
+53,125957,30,1,2,2,42,Cybersecurity,No,Yes
+37,30479,0,1,1,3,48,Engineering,Yes,Yes
+44,134392,12,1,2,2,8,Operations,Yes,Yes
+54,34585,17,2,3,4,9,Research & Development,No,Yes
+48,41619,8,3,4,4,15,Finance,No,No
+59,90069,25,2,2,2,32,Operations,No,No
+42,54895,23,4,3,3,3,Research,No,No
+37,18720,23,2,4,2,4,Finance,Yes,No
+54,34267,8,1,4,2,30,Engineering,No,No
+26,68364,30,2,1,3,13,Cybersecurity,Yes,Yes
+26,66567,22,1,4,4,44,Sales,No,No
+54,106229,28,3,2,1,21,Cybersecurity,No,No
+21,93518,8,2,2,2,41,Logistics,No,No
+30,97844,9,2,4,4,46,Sales,Yes,Yes
+41,105697,27,2,3,2,19,Cybersecurity,No,No
+25,72196,1,1,2,1,39,Research & Development,No,No
+22,130600,5,1,2,3,48,Cybersecurity,No,No
+42,115625,14,2,1,4,22,Human Resources,Yes,Yes
+22,146567,2,2,3,1,20,Data Science,Yes,No
+30,59755,10,3,4,2,37,Business Development,No,Yes
+54,48324,30,3,3,1,31,Administration,Yes,No
+36,93929,5,4,1,4,10,Design,No,No
+59,147624,2,3,1,3,18,Engineering,Yes,Yes
+42,66272,23,3,3,2,43,Design,No,No
+32,89462,30,3,1,3,39,Engineering,Yes,Yes
+44,69675,10,1,1,3,46,Procurement,No,Yes
+60,88591,14,3,1,1,20,Research & Development,Yes,Yes
+58,47363,12,3,3,1,18,Quality Assurance,Yes,Yes
+30,92004,19,2,1,4,11,Business Development,No,No
+55,55718,27,1,4,4,22,Information Technology,No,No
+52,128627,9,4,4,3,44,Design,Yes,Yes
+27,41870,5,4,2,4,18,Engineering,No,No
+41,52394,14,3,4,3,34,Administration,No,No
+40,67057,24,4,2,2,23,Design,No,No
+46,94795,17,4,3,3,1,Engineering,No,No
+24,95409,17,4,1,4,10,Procurement,Yes,Yes
+42,28016,6,3,4,4,1,Logistics,No,No
+35,57137,14,4,2,3,38,Design,Yes,Yes
+60,146225,17,3,3,1,39,Marketing,Yes,Yes
+41,27379,17,2,2,3,49,Information Technology,No,No
+35,136169,19,2,1,3,9,Marketing,No,No
+42,141082,8,4,4,1,31,Legal,Yes,No
+48,128089,23,2,3,2,7,Operations,No,No
+34,26049,1,3,2,1,17,Logistics,No,No
+47,146858,7,2,3,4,35,Sales,Yes,No
+60,137784,19,4,2,1,48,Design,Yes,Yes
+48,62691,1,3,2,4,37,Research & Development,Yes,Yes
+46,72986,10,1,1,4,18,Operations,No,No
+22,109774,25,3,1,3,33,Marketing,No,No
+45,120315,6,2,2,3,4,Sales,Yes,No
+23,72204,5,1,4,2,23,Marketing,Yes,Yes
+28,35085,29,3,3,4,11,Operations,No,No
+53,48980,9,1,3,3,9,Human Resources,No,No
+55,71117,4,1,1,4,30,Cybersecurity,No,Yes
+26,30896,10,1,4,2,8,Data Science,Yes,Yes
+59,104353,0,3,2,4,40,Legal,No,No
+43,44813,1,2,1,2,5,Customer Support,No,No
+45,80679,23,3,2,2,12,Marketing,Yes,No
+39,18228,0,2,2,2,1,Human Resources,No,No
+25,26397,18,3,1,3,15,Engineering,Yes,No
+31,52011,1,3,4,1,25,Administration,No,No
+32,94183,20,3,3,1,18,Quality Assurance,Yes,No
+30,108254,19,2,1,3,38,Data Science,Yes,Yes
+28,57317,28,3,4,4,42,Information Technology,Yes,Yes
+44,117489,22,1,2,3,46,Information Technology,No,No
+48,55096,20,3,1,4,26,Customer Support,No,No
+56,68785,23,1,3,2,40,Administration,No,No
+57,67344,3,4,3,3,3,Procurement,No,No
+41,135382,30,4,2,1,22,Procurement,Yes,No
+28,125489,11,2,1,4,26,Sales,No,No
+29,26549,21,2,3,3,19,Data Science,No,No
+35,40739,19,4,1,3,44,Research & Development,Yes,No
+60,36209,17,3,3,4,44,Administration,Yes,No
+38,122051,0,3,2,2,47,Marketing,Yes,No
+40,30116,29,3,2,2,39,Product Management,Yes,Yes
+26,35045,29,4,1,2,36,Administration,No,Yes
+32,50709,0,1,4,2,21,Legal,Yes,Yes
+22,58617,23,2,4,4,41,Marketing,No,No
+27,134779,13,1,2,1,48,Marketing,No,Yes
+36,57919,3,4,3,3,26,Research & Development,Yes,No
+23,98521,4,1,4,3,13,Legal,Yes,Yes
+23,21447,10,3,2,2,36,Administration,Yes,No
+47,20499,23,3,3,4,24,Quality Assurance,Yes,No
+60,54041,27,1,3,1,41,Data Science,Yes,Yes
+58,46315,30,4,4,1,26,Engineering,No,No
+53,147371,22,1,2,3,21,Research & Development,Yes,No
+48,135506,12,3,3,2,18,Customer Support,No,No
+21,106647,15,3,3,3,15,Human Resources,Yes,No
+28,47355,23,4,1,3,15,Quality Assurance,No,No
+57,88805,12,1,1,1,6,Design,No,Yes
+52,83367,23,3,4,4,43,Sales,No,No
+57,124906,21,3,1,1,31,Data Science,Yes,Yes
+24,132409,25,1,2,3,28,Marketing,Yes,No
+50,92355,1,1,4,2,8,Finance,Yes,Yes
+26,131220,15,2,4,2,29,Quality Assurance,No,Yes
+39,102173,5,4,1,4,21,Procurement,No,No
+52,16996,13,4,3,4,17,Operations,Yes,No
+29,59387,0,1,2,4,49,Customer Support,Yes,Yes
+32,18089,16,4,2,3,24,Human Resources,No,Yes
+31,113827,10,3,2,3,50,Logistics,No,No
+36,35659,18,1,4,4,36,Customer Support,Yes,No
+21,60178,2,1,2,2,31,Cybersecurity,Yes,Yes
+41,110965,10,1,3,2,47,Data Science,Yes,Yes
+50,96268,28,2,3,2,34,Data Science,No,No
+33,100042,4,4,1,3,2,Cybersecurity,No,Yes
+54,121471,16,2,2,1,42,Research & Development,Yes,No
+24,85111,25,3,4,2,3,Administration,Yes,No
+48,115435,21,4,1,2,30,Procurement,Yes,No
+58,104242,6,2,3,2,8,Finance,Yes,Yes
+51,128204,9,1,2,4,7,Logistics,Yes,No
+47,32199,27,2,3,3,12,Human Resources,No,No
+25,75038,28,1,1,4,19,Engineering,Yes,No
+45,72786,10,2,3,4,26,Engineering,No,Yes
+23,124636,2,2,2,1,28,Business Development,No,No
+53,64294,19,2,2,4,15,Operations,No,No
+24,15534,9,1,1,1,14,Research & Development,No,Yes
+45,106828,26,2,2,4,48,Cybersecurity,No,No
+40,51132,9,4,3,2,14,Operations,No,No
+54,130720,13,4,3,3,3,Business Development,No,Yes
+46,51110,11,4,4,4,50,Marketing,No,No
+25,78580,14,1,4,1,29,Design,Yes,Yes
+55,79016,9,1,4,3,6,Legal,Yes,Yes
+48,61233,29,4,3,1,49,Customer Support,Yes,No
+49,144863,9,4,3,2,23,Cybersecurity,Yes,No
+29,121311,25,4,1,4,28,Finance,Yes,Yes
+58,49409,18,3,4,3,14,Research & Development,No,No
+26,39054,0,4,3,2,14,Design,No,No
+39,44709,23,2,1,4,20,Customer Support,No,No
+31,124321,28,3,3,4,13,Administration,No,No
+22,15363,25,3,1,1,27,Logistics,No,Yes
+29,25358,9,1,4,1,35,Data Science,Yes,No
+41,149312,1,2,4,2,45,Research,Yes,Yes
+44,60689,16,1,4,1,2,Product Management,No,No
+54,16936,29,1,3,2,41,Administration,Yes,No
+42,127272,23,2,3,2,45,Operations,Yes,No
+23,106074,6,1,1,2,40,Product Management,Yes,Yes
+32,15882,6,2,2,1,48,Human Resources,Yes,No
+48,120227,19,2,2,3,24,Human Resources,Yes,Yes
+50,140865,26,1,4,2,29,Research & Development,No,Yes
+46,138745,8,4,2,3,3,Sales,Yes,No
+41,43885,21,1,4,4,45,Business Development,Yes,No
+48,149275,1,3,1,1,4,Quality Assurance,No,No
+46,148316,13,1,2,1,50,Administration,No,Yes
+53,113322,16,2,2,3,2,Information Technology,No,No
+41,83619,0,3,4,4,20,Research & Development,No,No
+55,36584,8,2,1,4,15,Information Technology,No,No
+54,23521,19,4,2,2,49,Data Science,No,Yes
+38,48541,20,4,2,1,32,Business Development,No,No
+31,44063,18,3,2,4,42,Marketing,No,No
+43,85268,3,4,1,4,1,Information Technology,Yes,Yes
+42,141218,27,4,1,2,38,Information Technology,No,No
+37,133206,7,1,2,2,35,Research & Development,No,No
+25,148639,12,1,4,3,7,Administration,Yes,No
+31,147746,3,4,4,1,45,Data Science,No,No
+50,91411,8,4,2,4,13,Customer Support,No,No
+35,124876,8,1,1,3,49,Procurement,No,No
+47,38331,21,4,2,1,1,Human Resources,No,Yes
+55,38004,17,4,1,3,14,Data Science,Yes,Yes
+53,134243,11,2,2,1,29,Engineering,Yes,Yes
+40,78217,9,4,1,1,3,Marketing,No,Yes
+36,104044,10,3,3,4,46,Administration,Yes,Yes
+54,24045,6,2,4,1,24,Logistics,Yes,Yes
+22,35116,8,3,3,2,1,Cybersecurity,Yes,Yes
+55,33667,5,4,4,4,48,Logistics,Yes,Yes
+60,90057,18,1,1,2,10,Marketing,Yes,Yes
+48,89205,15,2,3,3,13,Procurement,Yes,Yes
+59,42302,29,1,4,3,36,Design,No,No
+26,87534,14,2,2,1,9,Logistics,No,Yes
+29,28440,6,1,1,1,14,Product Management,Yes,No
+40,126001,15,2,1,2,36,Information Technology,Yes,No
+21,61501,4,2,2,2,10,Research,Yes,No
+28,147341,15,3,2,2,40,Legal,No,No
+43,22868,0,1,4,3,23,Sales,No,No
+23,92909,18,3,1,2,35,Legal,No,Yes
+24,99523,4,3,4,4,7,Legal,No,No
+45,30734,6,1,2,4,42,Engineering,No,No
+58,98600,18,2,1,3,35,Engineering,No,No
+35,23433,21,3,2,2,2,Logistics,Yes,Yes
+41,118986,4,1,4,2,15,Cybersecurity,No,No
+55,78753,28,2,4,1,9,Quality Assurance,No,No
+34,128783,16,3,4,4,47,Design,No,No
+56,36751,25,3,1,3,17,Design,Yes,No
+32,63570,21,3,2,2,39,Human Resources,No,Yes
+37,39503,29,2,2,1,18,Marketing,Yes,No
+59,148851,7,3,4,3,15,Product Management,Yes,No
+29,101840,28,2,4,3,18,Operations,No,No
+55,146827,28,4,4,4,24,Operations,No,No
+33,54263,0,3,4,2,23,Customer Support,No,Yes
+35,123491,1,4,3,3,12,Design,Yes,Yes
+38,70087,29,1,3,1,23,Cybersecurity,No,No
+53,66482,14,3,3,1,21,Cybersecurity,Yes,Yes
+26,137989,19,1,4,3,26,Procurement,Yes,No
+47,55115,27,1,4,1,8,Cybersecurity,No,No
+43,29249,17,1,2,3,30,Quality Assurance,No,No
+47,125361,10,4,1,1,34,Research,No,Yes
+54,39600,24,2,2,3,2,Quality Assurance,Yes,No
+58,52706,9,4,3,3,5,Quality Assurance,No,No
+34,34222,23,4,2,3,31,Quality Assurance,Yes,No
+56,114041,23,1,4,1,33,Legal,No,No
+28,119504,3,3,3,3,4,Marketing,Yes,No
+55,56139,4,2,3,4,6,Research,No,No
+39,129919,3,1,1,3,23,Product Management,No,Yes
+50,56302,12,2,1,2,45,Cybersecurity,Yes,Yes
+34,102838,24,4,3,2,19,Operations,Yes,No
+40,93353,12,2,3,4,43,Sales,No,Yes
+45,103992,17,2,2,3,45,Human Resources,Yes,Yes
+60,66428,28,3,3,2,8,Administration,Yes,No
+44,38777,26,1,4,3,39,Research,Yes,Yes
+34,72939,23,2,2,2,13,Sales,Yes,No
+46,101450,1,2,4,1,1,Administration,No,No
+58,38548,15,4,4,1,6,Customer Support,Yes,No
+43,140549,0,4,4,4,7,Design,No,Yes
+42,46625,25,2,3,4,48,Research & Development,No,Yes
+39,39918,18,1,1,3,27,Marketing,No,Yes
+23,129826,8,2,1,4,15,Information Technology,Yes,Yes
+39,129881,27,2,4,3,34,Data Science,No,Yes
+29,30577,2,3,3,1,23,Logistics,No,No
+48,100155,24,1,2,1,48,Operations,No,Yes
+40,126776,6,3,4,2,49,Customer Support,No,No
+27,114246,28,1,2,3,24,Administration,No,No
+34,109948,9,1,2,1,15,Engineering,Yes,No
+29,36341,0,1,3,1,35,Research,No,Yes
+39,112554,9,3,3,3,4,Customer Support,Yes,Yes
+34,122798,20,3,1,2,44,Research & Development,No,No
+58,61330,8,3,1,2,37,Customer Support,No,No
+56,102759,27,4,3,2,17,Legal,Yes,Yes
+60,101807,14,3,4,2,31,Data Science,Yes,No
+37,48313,14,4,1,1,38,Product Management,No,Yes
+50,61900,2,4,2,3,10,Cybersecurity,No,No
+29,93840,24,4,4,3,50,Logistics,No,No
+53,101072,4,2,2,1,27,Research & Development,No,No
+45,111367,8,2,3,1,42,Design,No,No
+34,64156,25,2,2,1,6,Cybersecurity,Yes,No
+31,102453,21,4,4,4,6,Finance,No,No
+55,40938,8,4,3,3,15,Research,No,No
+34,74164,22,1,4,3,4,Administration,Yes,Yes
+50,75282,6,4,2,3,48,Marketing,Yes,No
+24,62801,23,2,4,2,40,Legal,No,No
+24,18326,22,4,3,1,7,Administration,Yes,Yes
+48,149731,11,4,2,1,49,Design,Yes,No
+28,130819,24,1,2,1,45,Sales,Yes,No
+22,19763,26,4,1,4,47,Procurement,No,Yes
+42,62588,8,3,1,3,26,Research,No,No
+36,26221,5,1,4,1,31,Marketing,No,Yes
+49,28569,22,4,1,4,2,Product Management,Yes,No
+50,52860,1,4,1,1,28,Operations,No,No
+32,60337,30,1,1,2,42,Legal,No,Yes
+55,86695,8,4,1,3,13,Logistics,Yes,No
+31,121749,27,2,3,4,18,Customer Support,No,No
+41,58790,28,3,3,1,30,Logistics,Yes,Yes
+41,83580,16,3,1,3,11,Sales,Yes,Yes
+25,20636,0,2,4,4,13,Customer Support,Yes,Yes
+40,92129,18,4,3,3,24,Administration,Yes,No
+57,148964,27,4,1,3,29,Operations,No,No
+23,36672,5,3,3,2,5,Logistics,No,No
+53,20812,4,4,2,3,35,Customer Support,No,No
+29,15654,30,3,3,4,19,Procurement,Yes,No
+29,69633,1,3,3,3,13,Human Resources,No,No
+24,32143,8,2,4,4,5,Operations,No,No
+55,70934,29,3,3,3,44,Product Management,Yes,No
+37,82334,28,4,4,1,14,Operations,Yes,No
+54,118463,25,4,2,2,38,Research,No,No
+44,140851,13,1,1,1,22,Legal,Yes,No
+52,44087,3,4,4,2,9,Product Management,No,No
+21,23446,3,1,3,4,49,Customer Support,Yes,Yes
+28,117127,20,3,3,2,40,Data Science,Yes,Yes
+43,63867,14,4,4,3,26,Product Management,No,No
+60,75101,7,2,2,3,45,Product Management,Yes,No
+32,103074,25,2,1,1,5,Design,Yes,No
+32,133422,3,2,3,2,29,Data Science,Yes,No
+35,102892,15,3,2,4,22,Procurement,No,No
+39,135044,20,3,1,4,49,Human Resources,No,No
+46,54148,27,1,1,3,3,Quality Assurance,No,Yes
+49,97928,3,2,3,4,28,Administration,Yes,No
+42,66660,29,1,4,3,38,Design,Yes,No
+60,50450,15,1,3,3,14,Customer Support,Yes,Yes
+41,48757,21,4,3,3,47,Logistics,Yes,Yes
+58,93012,11,4,3,1,14,Legal,No,No
+40,121750,15,2,2,1,43,Design,No,No
+49,142043,18,3,4,3,11,Business Development,Yes,No
+24,71116,7,4,2,3,9,Operations,No,No
+27,47152,5,3,3,3,38,Data Science,No,No
+48,121379,9,1,4,4,47,Operations,No,No
+48,35836,4,1,1,3,44,Legal,Yes,Yes
+24,84444,28,1,4,3,6,Business Development,No,No
+42,108109,30,1,3,2,1,Design,No,No
+32,97018,17,2,4,2,25,Marketing,No,No
+23,138076,9,1,1,2,16,Customer Support,No,Yes
+42,146949,9,4,1,2,15,Administration,No,Yes
+22,98788,6,1,4,3,34,Data Science,Yes,Yes
+44,111870,17,3,1,2,17,Engineering,No,No
+54,98308,0,4,2,4,3,Logistics,No,No
+47,72913,6,3,4,4,3,Business Development,Yes,No
+21,17637,20,3,1,2,37,Operations,No,No
+28,57025,0,2,1,1,17,Operations,Yes,Yes
+43,114508,14,2,4,4,49,Customer Support,Yes,Yes
+58,97464,3,3,2,4,38,Human Resources,Yes,No
+26,43742,27,3,4,2,1,Logistics,Yes,No
+42,26831,28,1,1,2,7,Quality Assurance,No,No
+45,128768,19,4,4,3,26,Human Resources,No,No
+38,100092,9,1,1,4,47,Design,Yes,No
+37,105879,22,2,3,2,39,Engineering,No,No
+32,103370,8,2,4,2,19,Logistics,Yes,No
+26,141537,1,1,4,3,30,Data Science,No,Yes
+46,119824,27,4,1,4,43,Procurement,No,No
+47,103741,13,3,1,2,14,Marketing,Yes,No
+28,33830,15,1,1,3,13,Data Science,No,No
+39,70044,0,2,1,2,20,Information Technology,Yes,Yes
+21,88948,1,4,4,1,26,Legal,No,Yes
+49,84202,6,2,1,1,27,Cybersecurity,No,No
+55,52045,28,4,4,2,25,Operations,No,No
+60,122509,9,4,2,4,9,Research,Yes,No
+34,30198,21,4,4,1,41,Finance,Yes,Yes
+55,84521,19,1,1,3,48,Business Development,Yes,Yes
+40,121471,0,1,1,2,12,Sales,No,No
+33,44475,12,1,2,3,10,Cybersecurity,Yes,Yes
+58,34403,0,4,4,1,6,Engineering,Yes,No
+28,18681,4,4,2,4,50,Finance,Yes,No
+40,106555,15,2,4,3,34,Information Technology,No,Yes
+53,133884,14,3,1,1,41,Marketing,No,No
+46,108122,16,1,4,1,19,Administration,No,Yes
+59,130260,27,4,1,1,6,Quality Assurance,No,No
+41,120386,30,2,1,3,2,Customer Support,Yes,Yes
+29,108246,22,2,3,1,15,Quality Assurance,No,No
+44,110864,15,2,3,2,17,Quality Assurance,Yes,No
+57,23417,12,1,4,1,16,Research,No,Yes
+37,133888,10,1,1,2,28,Human Resources,Yes,No
+44,89499,16,3,2,4,21,Research & Development,Yes,No
+41,145908,16,2,1,2,8,Operations,No,No
+59,42675,1,1,2,4,10,Operations,Yes,Yes
+59,26332,12,2,4,4,10,Sales,Yes,Yes
+33,34177,13,4,4,2,50,Cybersecurity,Yes,Yes
+31,145560,10,2,2,4,10,Customer Support,Yes,No
+39,72104,27,3,2,2,9,Marketing,No,No
+31,99335,9,1,1,3,28,Product Management,No,No
+33,129938,2,4,4,4,24,Research & Development,Yes,No
+21,95730,28,1,1,2,19,Procurement,No,Yes
+60,43333,26,4,2,4,33,Data Science,Yes,Yes
+39,36673,30,2,3,1,4,Research & Development,Yes,Yes
+32,129421,16,2,3,2,3,Administration,No,No
+28,55870,14,3,3,1,42,Research & Development,Yes,Yes
+28,142536,8,3,2,4,12,Legal,No,No
+32,86101,9,4,1,4,18,Business Development,Yes,Yes
+53,37821,7,3,4,3,23,Design,No,No
+46,40494,20,3,2,2,20,Engineering,No,No
+59,114477,12,3,3,1,6,Information Technology,Yes,Yes
+48,141083,26,3,1,3,34,Legal,No,No
+25,127698,17,2,4,4,42,Product Management,Yes,No
+28,126560,4,3,4,4,2,Finance,No,No
+45,146907,5,2,2,3,30,Marketing,Yes,No
+47,33646,29,2,2,1,9,Sales,No,Yes
+43,138777,30,1,4,4,27,Information Technology,No,Yes
+50,92360,16,2,4,4,42,Quality Assurance,No,No
+43,52335,10,2,3,2,34,Quality Assurance,Yes,No
+40,84351,19,3,4,3,40,Administration,No,No
+38,129934,15,2,2,4,24,Engineering,Yes,Yes
+38,148501,8,4,1,1,49,Human Resources,No,No
+22,56950,1,3,3,2,17,Quality Assurance,No,No
+24,75654,4,3,3,3,29,Marketing,Yes,Yes
+50,122422,0,3,4,1,36,Data Science,No,No
+53,124934,3,1,1,4,50,Customer Support,Yes,No
+56,134975,3,3,3,3,12,Finance,Yes,Yes
+38,106186,21,2,2,3,31,Human Resources,Yes,No
+57,119234,25,4,4,1,49,Human Resources,Yes,No
+39,117326,24,3,2,3,9,Product Management,Yes,No
+48,92527,2,3,4,1,19,Sales,No,No
+60,101704,8,4,3,4,46,Research & Development,Yes,No
+40,111952,21,3,4,2,46,Legal,No,No
+53,75782,22,1,1,1,17,Customer Support,Yes,Yes
+32,86116,11,2,2,2,2,Procurement,Yes,No
+35,104626,9,4,1,3,40,Operations,No,No
+59,61015,1,4,2,1,5,Quality Assurance,No,No
+22,117877,10,1,2,4,39,Logistics,Yes,Yes
+49,30339,9,2,4,1,48,Administration,Yes,No
+30,149563,29,1,3,1,16,Operations,No,No
+22,146778,21,2,3,1,17,Marketing,No,No
+31,112493,5,1,1,2,27,Research & Development,Yes,Yes
+33,144526,17,3,4,2,7,Finance,Yes,Yes
+30,136648,1,1,3,3,8,Administration,Yes,Yes
+34,40163,29,4,2,3,8,Product Management,No,No
+38,102508,1,4,2,3,23,Engineering,Yes,No
+29,54619,9,4,4,3,32,Research & Development,No,No
+59,27126,15,1,1,1,43,Sales,No,Yes
+48,79926,11,4,4,2,47,Engineering,Yes,No
+23,55633,0,4,1,2,18,Design,Yes,No
+40,18317,20,3,4,2,38,Administration,No,No
+26,59980,7,3,2,2,12,Legal,Yes,No
+47,59115,15,2,4,3,15,Sales,Yes,Yes
+22,58158,17,2,3,1,28,Human Resources,No,No
+49,120364,12,2,3,2,38,Quality Assurance,Yes,No
+58,30504,14,1,4,4,50,Data Science,No,No
+23,52196,20,2,1,1,31,Product Management,No,No
+36,80938,11,1,1,4,9,Operations,Yes,Yes
+50,72388,7,1,2,1,8,Sales,No,Yes
+60,70501,9,2,2,1,46,Procurement,No,No
+22,42043,13,2,1,1,19,Cybersecurity,Yes,Yes
+37,48635,4,1,4,4,8,Business Development,No,No
+32,95691,17,3,2,2,34,Legal,Yes,Yes
+55,48132,18,4,1,2,4,Research & Development,No,Yes
+21,30366,14,4,1,4,31,Sales,No,No
+35,108944,5,4,4,2,38,Cybersecurity,No,No
+46,130267,26,3,3,3,3,Sales,No,No
+57,54236,10,1,1,2,35,Procurement,No,No
+41,19150,20,2,2,3,19,Administration,No,No
+51,126369,10,1,4,3,43,Procurement,No,No
+45,34423,19,1,4,3,29,Administration,Yes,No
+43,19137,19,2,4,4,10,Cybersecurity,No,No
+44,44992,20,3,3,2,12,Product Management,Yes,No
+58,125540,17,4,3,2,46,Cybersecurity,No,No
+48,130140,24,4,2,4,30,Logistics,No,No
+41,136225,17,1,2,4,30,Customer Support,Yes,Yes
+38,81917,9,3,4,2,18,Logistics,Yes,No
+56,88690,1,4,2,4,24,Product Management,Yes,Yes
+55,49235,25,3,1,4,32,Information Technology,No,Yes
+29,34122,29,2,3,3,9,Logistics,Yes,Yes
+58,38956,8,1,4,4,47,Marketing,No,No
+50,78879,13,1,4,3,24,Operations,No,Yes
+54,73560,18,3,1,1,26,Marketing,Yes,No
+52,125310,30,4,1,3,3,Logistics,No,No
+23,16168,9,3,1,3,23,Design,Yes,No
+23,60124,22,2,1,4,11,Legal,Yes,No
+48,67797,3,4,4,2,10,Human Resources,Yes,No
+35,50294,28,4,3,1,50,Finance,Yes,No
+43,18516,28,3,3,1,36,Information Technology,No,No
+60,45373,5,2,1,1,13,Administration,No,No
+31,137026,13,4,2,2,29,Administration,Yes,No
+52,45270,3,1,4,1,38,Procurement,Yes,Yes
+56,80184,25,2,3,1,13,Engineering,No,No
+53,52879,14,4,1,2,26,Administration,No,No
+44,64597,15,3,2,1,20,Logistics,Yes,Yes
+59,18626,6,4,2,4,5,Human Resources,No,No
+54,100936,16,1,1,4,20,Human Resources,No,No
+48,96515,18,2,4,3,14,Finance,No,No
+57,70390,28,4,3,3,45,Cybersecurity,No,No
+27,69144,18,1,2,3,14,Research,Yes,No
+24,19025,16,4,3,4,8,Product Management,No,No
+57,94380,5,4,3,4,48,Business Development,Yes,Yes
+21,133910,30,2,2,4,13,Product Management,Yes,No
+21,111055,28,3,1,3,24,Procurement,Yes,Yes
